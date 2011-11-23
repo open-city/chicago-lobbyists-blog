@@ -1,0 +1,19 @@
+---
+layout: post
+title: Meeting with Chicago CDO Brett Goldstein
+author: Derek 
+---
+
+Aug 2, 2011 - Questions related to ChicagoLobbyists.org
+1. Is there a way to determine compensation that comes to a firm versus lobbyist? (We can’t be sure adding up compensation of all lobbyists within a firm is accurate.)
+2. Is there a way to determine how much a client paid to a lobbying firm or lobbyist?
+3. Related to the question above, can we retrieve the purpose for a client payment?
+4. Can we receive data before 2010? If so, what years are available?
+5. Is there a way to determine which client requested an action in front of an agency? We only know which lobbyist requested an action—see example: http://chicagolobbyists.org/lobbyists/theodore-brunsvold
+6. Are street addresses available for lobbying firms (some give political donations from many different addresses)?
+7. Do you have a good state contact from which we could request political donation data?
+8. Is there a list of all city datasets available (besides those on Socrata)?
+9. Is there a schedule of when particular datasets are updated (frequency, time period)?
+10. Is there anything related to the ethics ordinance that we might be able to help on?
+
+To do: List of Brett's responses.

@@ -1,0 +1,18 @@
+---
+layout: post
+title: Presentation at the OpenGov Chicago meetup
+author: Derek 
+---
+
+Aug 19, 2011 - Ryan Briones and Chad Pry <a href='http://www.meetup.com/OpenGovChicago/events/28864281/'>gave a presentation to the OpenGov Chicago meetup</a> on the origin and future of ChicagoLobbyists.org. Below are the meeting notes:
+
+<h3>Origins</h3> 
+Started with an existing Obtiva/Webitects relationship. Paul, Ryan, Chad and Derek were all interested in doing an opendata project. The Google Hack-a-thon presented an opportunity and put on pressure for us to really build something. The lobbyist data was just released the week before and knowing about lobbyist activity is considered to be a 'juicy' topic. 
+
+<h3>How did we do it?</h3>
+Each of the main contributors spent ~5 hours the week before the hack-a-thon cleaning up data with <a href='http://code.google.com/p/google-refine/'>Google Refine</a>, eyeballing obvious relationships in the data, doing some base HTML layouts and setting up a host for the application (Ruby/Sinatra). At the Google Open Data Hack-a-thon 6 people worked on the project: the 4 originators plus Ruthie and Chirag. By the end of the day we had a basic structure and database set up. The following weeks, we worked in our spare time and now have a minimum viable product. 
+
+<h3>What is in the future?</h3>
+Add more meaningful data to inform you about lobbyists, clients and agencies. We have started a relationship working with Brett Goldstein (Chicago's Chief Data Officer) and the Ethics department to fill in the gaps. Once we have Chicago down, we will generalize our model for use with other cities to visualize their lobbyist data. 
+
+All the code is open source and can be <a href='https://github.com/ryanbriones/chicagolobbyists'>checked out on Github</a>. 

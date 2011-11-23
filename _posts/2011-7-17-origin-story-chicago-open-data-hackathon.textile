@@ -1,0 +1,19 @@
+---
+layout: post
+title: Origin Story - Chicago Open Data Hackathon
+author: Derek 
+---
+
+July 7, 2011 - Chicago Lobbyists started as an existing relationship between civic-minded members of <a href='http://obtiva.com/'>Obtiva</a> and <a href='http://webitects.com'>Webitects</a>. In early July 2011, when Google announced it would be hosting a hackathon focused on Chicago civic data, it was a perfect excuse to bring our group together for the first time to build something great. 
+
+Paul pointed out that the <a href='http://data.cityofchicago.org/browse?tags=lobbyists'>lobbyist data</a> was particularly interesting. It was always a hot topic in the media and the City had just released it a few weeks prior and we all quickly agreed to focus on that for our hackathon project. The question then was, what could we do with it?
+
+The week before the hackathon, we brainstormed over this very question and came up with the idea that it could be a 'Facebook for lobbyists'. Each lobbyist would have a page, which would show various details about their firms, the money they were paid, and the actions they sought in front of city agencies (City Council, Department of Buildings, etc). From there, other page layouts emerged, and going in to the Saturday hackathon, the team had developed HTML templates for those very pages.
+
+The day of the hackathon, our group worked for 8 hours straight parsing the data, building out the Ruby/Sinatra app and developing additional pages. Along the way, they got some help from <a href='https://twitter.com/#!/patelc75'>Chirag Patel</a> on the database setup and <a href='https://twitter.com/#!/unruthless'>Ruthie BenDor</a> on the front-end development. By the end of the day, we had a partially working home page, which we presented to the other hackathon attendees (see photos below) to great fanfare. 
+
+Running with that momentum, we continued to develop the site over the next few weeks. By August 3rd, we had a MVP (minimum viable product).
+
+Slideshow from the Chicago Open Data Hackathon on July 17th 2011 courtesy of Chicago CTO John Tolva.
+
+<iframe align="center" src="http://www.flickr.com/slideShow/index.gne?group_id=&user_id=68506146@N00&set_id=72157627083380801/with/5944894188&text=" frameBorder="0" width="500" height="450" scrolling="no"></iframe>

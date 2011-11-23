@@ -1,0 +1,6 @@
+auto:        true
+pygments:    false
+lsi:         false
+markdown:    rdiscount
+permalink:   pretty
+exclude:     .rvmrc, .gitignore, .git, ./test, 2011-8-2-meeting-with-cdo-brett-goldstein.textile

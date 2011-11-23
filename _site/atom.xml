@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+  <title>blog.chicagolobbyists.org</title>
+  <link href="http://blog.chicagolobbyists.org/"/>
+  <link type="application/atom+xml" rel="self" href="http://blog.chicagolobbyists.org/atom.xml"/>
+  <updated>2011-11-22T22:29:08-06:00</updated>
+  <id>http://blog.chicagolobbyists.org/</id>
+  <author>
+    <name>Chicago Lobbyists Blog</name>
+    <email>chi.lobbyists@gmail.com</email>
+  </author>
+
+  
+  <entry>
+    <id>http://blog.chicagolobbyists.org/2011/08/19/opengov-chicago-presentation</id>
+    <link type="text/html" rel="alternate" href="http://blog.chicagolobbyists.org/2011/08/19/opengov-chicago-presentation/"/>
+    <title>Presentation at the OpenGov Chicago meetup</title>
+    <updated>2011-08-19T00:00:00-05:00</updated>
+    <author>
+      <name>Chicago Lobbyists</name>
+      <uri>http://blog.chicagolobbyists.org/</uri>
+    </author>
+    <content type="html">&lt;p&gt;Aug 19, 2011 &amp;#8211; Ryan Briones and Chad Pry &lt;a href='http://www.meetup.com/OpenGovChicago/events/28864281/'&gt;gave a presentation to the OpenGov Chicago meetup&lt;/a&gt; on the origin and future of ChicagoLobbyists.org. Below are the meeting notes:&lt;/p&gt;
+&lt;h3&gt;Origins&lt;/h3&gt; 
+&lt;p&gt;Started with an existing Obtiva/Webitects relationship. Paul, Ryan, Chad and Derek were all interested in doing an opendata project. The Google Hack-a-thon presented an opportunity and put on pressure for us to really build something. The lobbyist data was just released the week before and knowing about lobbyist activity is considered to be a &amp;#8216;juicy&amp;#8217; topic.&lt;/p&gt;
+&lt;h3&gt;How did we do it?&lt;/h3&gt;
+&lt;p&gt;Each of the main contributors spent ~5 hours the week before the hack-a-thon cleaning up data with &lt;a href='http://code.google.com/p/google-refine/'&gt;Google Refine&lt;/a&gt;, eyeballing obvious relationships in the data, doing some base &lt;span class=&quot;caps&quot;&gt;HTML&lt;/span&gt; layouts and setting up a host for the application (Ruby/Sinatra). At the Google Open Data Hack-a-thon 6 people worked on the project: the 4 originators plus Ruthie and Chirag. By the end of the day we had a basic structure and database set up. The following weeks, we worked in our spare time and now have a minimum viable product.&lt;/p&gt;
+&lt;h3&gt;What is in the future?&lt;/h3&gt;
+&lt;p&gt;Add more meaningful data to inform you about lobbyists, clients and agencies. We have started a relationship working with Brett Goldstein (Chicago&amp;#8217;s Chief Data Officer) and the Ethics department to fill in the gaps. Once we have Chicago down, we will generalize our model for use with other cities to visualize their lobbyist data.&lt;/p&gt;
+&lt;p&gt;All the code is open source and can be &lt;a href='https://github.com/ryanbriones/chicagolobbyists'&gt;checked out on Github&lt;/a&gt;.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <id>http://blog.chicagolobbyists.org/2011/07/17/origin-story-chicago-open-data-hackathon</id>
+    <link type="text/html" rel="alternate" href="http://blog.chicagolobbyists.org/2011/07/17/origin-story-chicago-open-data-hackathon/"/>
+    <title>Origin Story - Chicago Open Data Hackathon</title>
+    <updated>2011-07-17T00:00:00-05:00</updated>
+    <author>
+      <name>Chicago Lobbyists</name>
+      <uri>http://blog.chicagolobbyists.org/</uri>
+    </author>
+    <content type="html">&lt;p&gt;July 7, 2011 &amp;#8211; Chicago Lobbyists started as an existing relationship between civic-minded members of &lt;a href='http://obtiva.com/'&gt;Obtiva&lt;/a&gt; and &lt;a href='http://webitects.com'&gt;Webitects&lt;/a&gt;. In early July 2011, when Google announced it would be hosting a hackathon focused on Chicago civic data, it was a perfect excuse to bring our group together for the first time to build something great.&lt;/p&gt;
+&lt;p&gt;Paul pointed out that the &lt;a href='http://data.cityofchicago.org/browse?tags=lobbyists'&gt;lobbyist data&lt;/a&gt; was particularly interesting. It was always a hot topic in the media and the City had just released it a few weeks prior and we all quickly agreed to focus on that for our hackathon project. The question then was, what could we do with it?&lt;/p&gt;
+&lt;p&gt;The week before the hackathon, we brainstormed over this very question and came up with the idea that it could be a &amp;#8216;Facebook for lobbyists&amp;#8217;. Each lobbyist would have a page, which would show various details about their firms, the money they were paid, and the actions they sought in front of city agencies (City Council, Department of Buildings, etc). From there, other page layouts emerged, and going in to the Saturday hackathon, the team had developed &lt;span class=&quot;caps&quot;&gt;HTML&lt;/span&gt; templates for those very pages.&lt;/p&gt;
+&lt;p&gt;The day of the hackathon, our group worked for 8 hours straight parsing the data, building out the Ruby/Sinatra app and developing additional pages. Along the way, they got some help from &lt;a href='https://twitter.com/#!/patelc75'&gt;Chirag Patel&lt;/a&gt; on the database setup and &lt;a href='https://twitter.com/#!/unruthless'&gt;Ruthie BenDor&lt;/a&gt; on the front-end development. By the end of the day, we had a partially working home page, which we presented to the other hackathon attendees (see photos below) to great fanfare.&lt;/p&gt;
+&lt;p&gt;Running with that momentum, we continued to develop the site over the next few weeks. By August 3rd, we had a &lt;span class=&quot;caps&quot;&gt;MVP&lt;/span&gt; (minimum viable product).&lt;/p&gt;
+&lt;p&gt;Slideshow from the Chicago Open Data Hackathon on July 17th 2011 courtesy of Chicago &lt;span class=&quot;caps&quot;&gt;CTO&lt;/span&gt; John Tolva.&lt;/p&gt;
+&lt;p&gt;&lt;iframe align=&quot;center&quot; src=&quot;http://www.flickr.com/slideShow/index.gne?group_id=&amp;user_id=68506146@N00&amp;set_id=72157627083380801/with/5944894188&amp;text=&quot; frameBorder=&quot;0&quot; width=&quot;500&quot; height=&quot;450&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;</content>
+  </entry>
+  
+ 
+</feed>
