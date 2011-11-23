@@ -9,4 +9,4 @@ group :development do
   gem "shotgun"
 end
 
-gemspec
+#gemspec
