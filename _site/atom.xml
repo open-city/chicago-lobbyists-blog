@@ -4,13 +4,53 @@
   <title>blog.chicagolobbyists.org</title>
   <link href="http://blog.chicagolobbyists.org/"/>
   <link type="application/atom+xml" rel="self" href="http://blog.chicagolobbyists.org/atom.xml"/>
-  <updated>2011-12-01T13:06:18-06:00</updated>
+  <updated>2011-12-01T16:02:01-06:00</updated>
   <id>http://blog.chicagolobbyists.org/</id>
   <author>
     <name>Chicago Lobbyists Blog</name>
     <email>chi.lobbyists@gmail.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://blog.chicagolobbyists.org/2011/12/01/an-open-data-story</id>
+    <link type="text/html" rel="alternate" href="http://blog.chicagolobbyists.org/2011/12/01/an-open-data-story/"/>
+    <title>An Open Data Story</title>
+    <updated>2011-12-01T00:00:00-06:00</updated>
+    <author>
+      <name>Chicago Lobbyists</name>
+      <uri>http://blog.chicagolobbyists.org/</uri>
+    </author>
+    <content type="html">&lt;p&gt;by Paul Baker&lt;/p&gt;
+&lt;p&gt;Dec 1, 2011 &amp;#8211; In almost all open data projects, providing raw data is not enough. And it’s not enough to be a good programmer or designer. To be useful, we need to be able to figure out what questions the data might reveal and which of these might be useful for the public to know.&lt;/p&gt;
+&lt;h3&gt;The data&lt;/h3&gt;
+&lt;p class='r'&gt;&lt;a href='http://data.cityofchicago.org/Ethics/Lobbyist-Data-2010-Lobbyist-Registry/2ft4-4uik'&gt;&lt;img src='http://chicagolobbyists.org/images/city-data-portal.png' alt='Lobbyist Data - 2010 Lobbyist Registry' title='Lobbyist Data - 2010 Lobbyist Registry' /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In early July 2011, the City of Chicago released &lt;a href='http://data.cityofchicago.org/browse?tags=lobbyists'&gt;14 sets of lobbying-related data&lt;/a&gt;, including lobbyists, lobbying agencies, gifts to city employees, expenditures, clients of lobbyists, etc. However, an ordinary human being could not make heads or tails of this without some sort of integration. &lt;br /&gt;
+That’s why we built &lt;a href='http://chicagoLobbyists.org'&gt;ChicagoLobbyists.org&lt;/a&gt;.&lt;/p&gt;
+&lt;div class='clear'&gt;&lt;/div&gt;
+&lt;h3&gt;Chicago Lobbyists v1.0&lt;/h3&gt;
+&lt;p&gt;First, we went through each data set, attempting to draw relationships among them by looking for common fields such as clients, lobbying firms, and individual lobbyists. Our goal was to reveal answers to questions such as, &amp;#8220;WalMart paid which lobbyist, with which lobbying firm, how much money, to argue on their behalf in front of which department or committee, and for what purpose?&amp;#8221;&lt;/p&gt;
+&lt;p&gt;We soon found out that we couldn’t answer that question. In the above example, we could show which lobbyists Walmart paid, which firm the lobbyist worked for, and which city agencies the lobbyist appeared before, but not which tasks lobbyists were hired to do for WalMart.&lt;/p&gt;
+&lt;h3&gt;Meeting with the City&lt;/h3&gt;
+&lt;p&gt;After the July Google hackathon, at which we built and launched the site, we met with the city’s Chief Data Officer, &lt;a href='https://twitter.com/#!/ChicagoCDO'&gt;Brett Goldstein&lt;/a&gt;, and some IT staff, and asked: &lt;br /&gt;
+&lt;ol&gt;&lt;br /&gt;
+	&lt;li&gt;Is there a way to determine compensation that comes to a firm versus lobbyist? (We can’t be sure adding up compensation of all lobbyists within a firm is accurate.)&lt;/li&gt;&lt;br /&gt;
+	&lt;li&gt;Is there a way to determine how much a client paid to a lobbying firm or lobbyist?&lt;/li&gt;&lt;br /&gt;
+	&lt;li&gt;Related to the question above, can we retrieve the purpose for a client payment?&lt;/li&gt;&lt;br /&gt;
+	&lt;li&gt;Can we receive data before 2010? If so, what years are available?&lt;/li&gt;&lt;br /&gt;
+	&lt;li&gt;Is there a way to determine which client requested an action in front of an agency? We only know which lobbyist requested an action—see example: &lt;a href='http://chicagolobbyists.org/lobbyists/theodore-brunsvold'&gt;Theodore Brunsvold&lt;/a&gt;&lt;/li&gt;&lt;br /&gt;
+	&lt;li&gt;Are street addresses available for lobbying firms (some give political donations from many different addresses)?&lt;/li&gt;&lt;br /&gt;
+	&lt;li&gt;Do you have a good state contact from which we could request political donation data?&lt;/li&gt;&lt;br /&gt;
+	&lt;li&gt;Is there a list of all city datasets available (besides those on Socrata)?&lt;/li&gt;&lt;br /&gt;
+	&lt;li&gt;Is there a schedule of when particular datasets are updated (frequency, time period)?&lt;/li&gt;&lt;/p&gt;
+&lt;/ol&gt;
+&lt;h3&gt;The City responds with updated data&lt;/h3&gt;
+&lt;p&gt;By late August, Brett’s team had collected and &lt;a href='http://www.cityofchicago.org/city/en/depts/mayor/press_room/press_releases/2011/august_2011/mayor_emanuel_announcesnewlobbyistdatathatprovidesclearconnectio.html'&gt;posted the data that we had requested&lt;/a&gt;. Now, we are able to incorporate the new data and change the site’s design to show more detailed and new views (&lt;strong&gt;these changes are coming in the next day or so &amp;#8211; stay tuned&lt;/strong&gt;). Now we can answer most of the important questions.&lt;/p&gt;
+&lt;h3&gt;Next steps &amp;hellip;&lt;/h3&gt;
+&lt;p&gt;Our next steps are to incorporate political donations to city officials by lobbyists and organizations. It would also be good to show how elected officials voted on issues of interest to lobbyists who have donated to them and their clients.&lt;/p&gt;
+&lt;p&gt;The entire &lt;a href='http://data.cityofchicago.org/Administration-Finance/Budget-2012-Budget-Recommendations-Appropriations/8dps-5d4x'&gt;2012 city budget&lt;/a&gt; is about $3 billion—all of it paid by residents. Fees paid to lobbyists to influence government decisions will probably be in the neighborhood of $13 million, or about .4% of $3 billion.&lt;/p&gt;
+&lt;p&gt;We’re the 99.6%. Lobbyists paid by organizations are .4%. Are lobbyists the tail that wags the dog?&lt;/p&gt;</content>
+  </entry>
   
   <entry>
     <id>http://blog.chicagolobbyists.org/2011/08/19/opengov-chicago-presentation</id>
@@ -21,7 +61,8 @@
       <name>Chicago Lobbyists</name>
       <uri>http://blog.chicagolobbyists.org/</uri>
     </author>
-    <content type="html">&lt;p&gt;Aug 19, 2011 &amp;#8211; Ryan Briones and Chad Pry &lt;a href='http://www.meetup.com/OpenGovChicago/events/28864281/'&gt;gave a presentation to the OpenGov Chicago meetup&lt;/a&gt; on the origin and future of ChicagoLobbyists.org. Below are the meeting notes:&lt;/p&gt;
+    <content type="html">&lt;p&gt;by Derek Eder&lt;/p&gt;
+&lt;p&gt;Aug 19, 2011 &amp;#8211; Ryan Briones and Chad Pry &lt;a href='http://www.meetup.com/OpenGovChicago/events/28864281/'&gt;gave a presentation to the OpenGov Chicago meetup&lt;/a&gt; on the origin and future of ChicagoLobbyists.org. Below are the meeting notes:&lt;/p&gt;
 &lt;h3&gt;Origins&lt;/h3&gt; 
 &lt;p&gt;Started with an existing Obtiva/Webitects relationship. Paul, Ryan, Chad and Derek were all interested in doing an opendata project. The Google Hack-a-thon presented an opportunity and put on pressure for us to really build something. The lobbyist data was just released the week before and knowing about lobbyist activity is considered to be a &amp;#8216;juicy&amp;#8217; topic.&lt;/p&gt;
 &lt;h3&gt;How did we do it?&lt;/h3&gt;
@@ -40,7 +81,8 @@
       <name>Chicago Lobbyists</name>
       <uri>http://blog.chicagolobbyists.org/</uri>
     </author>
-    <content type="html">&lt;p&gt;July 17, 2011 &amp;#8211; Chicago Lobbyists started as an existing relationship between civic-minded members of &lt;a href='http://obtiva.com/'&gt;Obtiva&lt;/a&gt; and &lt;a href='http://webitects.com'&gt;Webitects&lt;/a&gt;. In early July 2011, when Google announced it would be hosting a hackathon focused on Chicago civic data, it was a perfect excuse to bring our group together for the first time to build something great.&lt;/p&gt;
+    <content type="html">&lt;p&gt;by Derek Eder&lt;/p&gt;
+&lt;p&gt;July 17, 2011 &amp;#8211; Chicago Lobbyists started as an existing relationship between civic-minded members of &lt;a href='http://obtiva.com/'&gt;Obtiva&lt;/a&gt; and &lt;a href='http://webitects.com'&gt;Webitects&lt;/a&gt;. In early July 2011, when Google announced it would be hosting a hackathon focused on Chicago civic data, it was a perfect excuse to bring our group together for the first time to build something great.&lt;/p&gt;
 &lt;p&gt;Paul pointed out that the &lt;a href='http://data.cityofchicago.org/browse?tags=lobbyists'&gt;lobbyist data&lt;/a&gt; was particularly interesting. It was always a hot topic in the media and the City had just released it a few weeks prior and we all quickly agreed to focus on that for our hackathon project. The question then was, what could we do with it?&lt;/p&gt;
 &lt;p&gt;The week before the hackathon, we brainstormed over this very question and came up with the idea that it could be a &amp;#8216;Facebook for lobbyists&amp;#8217;. Each lobbyist would have a page, which would show various details about their firms, the money they were paid, and the actions they sought in front of city agencies (City Council, Department of Buildings, etc). From there, other page layouts emerged, and going in to the Saturday hackathon, the team had developed &lt;span class=&quot;caps&quot;&gt;HTML&lt;/span&gt; templates for those very pages.&lt;/p&gt;
 &lt;p&gt;The day of the hackathon, our group worked for 8 hours straight parsing the data, building out the Ruby/Sinatra app and developing additional pages. Along the way, they got some help from &lt;a href='https://twitter.com/#!/patelc75'&gt;Chirag Patel&lt;/a&gt; on the database setup and &lt;a href='https://twitter.com/#!/unruthless'&gt;Ruthie BenDor&lt;/a&gt; on the front-end development. By the end of the day, we had a partially working home page, which we presented to the other hackathon attendees (see photos below) to great fanfare.&lt;/p&gt;

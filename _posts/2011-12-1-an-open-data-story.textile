@@ -1,0 +1,48 @@
+---
+layout: post
+title: An Open Data Story
+author: Paul 
+---
+by Paul Baker
+
+Dec 1, 2011 - In almost all open data projects, providing raw data is not enough. And it’s not enough to be a good programmer or designer. To be useful, we need to be able to figure out what questions the data might reveal and which of these might be useful for the public to know. 
+
+<h3>The data</h3>
+<p class='r'><a href='http://data.cityofchicago.org/Ethics/Lobbyist-Data-2010-Lobbyist-Registry/2ft4-4uik'><img src='http://chicagolobbyists.org/images/city-data-portal.png' alt='Lobbyist Data - 2010 Lobbyist Registry' title='Lobbyist Data - 2010 Lobbyist Registry' /></a></p>
+
+In early July 2011, the City of Chicago released <a href='http://data.cityofchicago.org/browse?tags=lobbyists'>14 sets of lobbying-related data</a>, including lobbyists, lobbying agencies, gifts to city employees, expenditures, clients of lobbyists, etc. However, an ordinary human being could not make heads or tails of this without some sort of integration. 
+That’s why we built <a href='http://chicagoLobbyists.org'>ChicagoLobbyists.org</a>.
+
+<div class='clear'></div>
+<h3>Chicago Lobbyists v1.0</h3>
+
+First, we went through each data set, attempting to draw relationships among them by looking for common fields such as clients, lobbying firms, and individual lobbyists. Our goal was to reveal answers to questions such as, "WalMart paid which lobbyist, with which lobbying firm, how much money, to argue on their behalf in front of which department or committee, and for what purpose?"
+
+We soon found out that we couldn’t answer that question. In the above example, we could show which lobbyists Walmart paid, which firm the lobbyist worked for, and which city agencies the lobbyist appeared before, but not which tasks lobbyists were hired to do for WalMart.
+
+<h3>Meeting with the City</h3>
+After the July Google hackathon, at which we built and launched the site, we met with the city’s Chief Data Officer, <a href='https://twitter.com/#!/ChicagoCDO'>Brett Goldstein</a>, and some IT staff, and asked: 
+<ol>
+	<li>Is there a way to determine compensation that comes to a firm versus lobbyist? (We can’t be sure adding up compensation of all lobbyists within a firm is accurate.)</li>
+	<li>Is there a way to determine how much a client paid to a lobbying firm or lobbyist?</li>
+	<li>Related to the question above, can we retrieve the purpose for a client payment?</li>
+	<li>Can we receive data before 2010? If so, what years are available?</li>
+	<li>Is there a way to determine which client requested an action in front of an agency? We only know which lobbyist requested an action—see example: <a href='http://chicagolobbyists.org/lobbyists/theodore-brunsvold'>Theodore Brunsvold</a></li>
+	<li>Are street addresses available for lobbying firms (some give political donations from many different addresses)?</li>
+	<li>Do you have a good state contact from which we could request political donation data?</li>
+	<li>Is there a list of all city datasets available (besides those on Socrata)?</li>
+	<li>Is there a schedule of when particular datasets are updated (frequency, time period)?</li>
+</ol>
+
+<h3>The City responds with updated data</h3>
+By late August, Brett’s team had collected and <a href='http://www.cityofchicago.org/city/en/depts/mayor/press_room/press_releases/2011/august_2011/mayor_emanuel_announcesnewlobbyistdatathatprovidesclearconnectio.html'>posted the data that we had requested</a>. Now, we are able to incorporate the new data and change the site’s design to show more detailed and new views (<strong>these changes are coming in the next day or so - stay tuned</strong>). Now we can answer most of the important questions.
+
+<h3>Next steps &hellip;</h3>
+Our next steps are to incorporate political donations to city officials by lobbyists and organizations. It would also be good to show how elected officials voted on issues of interest to lobbyists who have donated to them and their clients.
+
+The entire <a href='http://data.cityofchicago.org/Administration-Finance/Budget-2012-Budget-Recommendations-Appropriations/8dps-5d4x'>2012 city budget</a> is about $3 billion—all of it paid by residents. Fees paid to lobbyists to influence government decisions will probably be in the neighborhood of $13 million, or about .4% of $3 billion. 
+
+We’re the 99.6%. Lobbyists paid by organizations are .4%. Are lobbyists the tail that wags the dog? 
+
+
+

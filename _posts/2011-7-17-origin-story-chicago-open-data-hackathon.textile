@@ -3,6 +3,7 @@ layout: post
 title: Origin Story - Chicago Open Data Hackathon
 author: Derek 
 ---
+by Derek Eder
 
 July 17, 2011 - Chicago Lobbyists started as an existing relationship between civic-minded members of <a href='http://obtiva.com/'>Obtiva</a> and <a href='http://webitects.com'>Webitects</a>. In early July 2011, when Google announced it would be hosting a hackathon focused on Chicago civic data, it was a perfect excuse to bring our group together for the first time to build something great. 
 

@@ -3,6 +3,7 @@ layout: post
 title: Presentation at the OpenGov Chicago meetup
 author: Derek 
 ---
+by Derek Eder
 
 Aug 19, 2011 - Ryan Briones and Chad Pry <a href='http://www.meetup.com/OpenGovChicago/events/28864281/'>gave a presentation to the OpenGov Chicago meetup</a> on the origin and future of ChicagoLobbyists.org. Below are the meeting notes:
 
