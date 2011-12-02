@@ -42,4 +42,4 @@ Here is a rundown of the new features:
 	<li>All detail pages have comments (powered by <a href='http://disqus.com/dashboard/'>Disqus</a>)</li>
 </ol>
 
-We're all really excited about these new updates. We now have the most accurate and detailed visualization of lobbyist activities around. That's something to be proud of.c
+We're all really excited about these new updates. We now have the most accurate and detailed visualization of lobbyist activities around. That's something to be proud of.
