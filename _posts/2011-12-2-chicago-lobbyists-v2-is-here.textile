@@ -31,11 +31,11 @@ Here is a rundown of the new features:
 	</ul>
 	<p><a href='http://chicagolobbyists.org/lobbyists/ronald-johnson'><img style="border: 1px solid #ccc; " src='/images/v2-lobbyist-detail.png' alt='Lobbyist detail - Ronald Johnson' title='Lobbyist detail - Ronald Johnson' /></a> </p>
 	</li>
-	<li>Global site search (using <a href='http://www.google.com/cse/'>Google custom search engine</a>)</li>
+	<li><p>Global site search (using <a href='http://www.google.com/cse/'>Google custom search engine</a>)</li>
 	<li><p>Every lobbyist action has a client associated with it</p></li>
 	<li><p>Every lobbyist payment shows the client who paid them</li>
 	<li><p>Categorized lobbyist expenditures (office expenses, food, travel, education, etc) are now listed</li>
-	<li>We cross referenced the City of Chicago <a href='http://data.cityofchicago.org/Administration-Finance/Payments/s4vu-giwb'>Payments database</a>, and listed all payments by Chicago to each client (example: <a href='http://chicagolobbyists.org/clients/christy-webber-landscapes'>Christy Webber Landscapes</a>)
+	<li><p>We cross referenced the City of Chicago <a href='http://data.cityofchicago.org/Administration-Finance/Payments/s4vu-giwb'>Payments database</a>, and listed all payments by Chicago to each client (example: <a href='http://chicagolobbyists.org/clients/christy-webber-landscapes'>Christy Webber Landscapes</a>)
 	<p><a href='http://chicagolobbyists.org/clients/'><img style="border: 1px solid #ccc; " src='/images/v2-city-payments.png' alt='Christy Webber Landscapes - City Payments' title='Christy Webber Landscapes - City Payments' /></a> </p>
 	</li>
 	<li><p>All detail pages now have tabs for each section so you can see all the rich data, without cluttering the page</li>
