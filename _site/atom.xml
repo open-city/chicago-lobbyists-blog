@@ -4,7 +4,7 @@
   <title>blog.chicagolobbyists.org</title>
   <link href="http://blog.chicagolobbyists.org/"/>
   <link type="application/atom+xml" rel="self" href="http://blog.chicagolobbyists.org/atom.xml"/>
-  <updated>2011-12-02T10:47:10-06:00</updated>
+  <updated>2011-12-02T12:24:35-06:00</updated>
   <id>http://blog.chicagolobbyists.org/</id>
   <author>
     <name>Chicago Lobbyists Blog</name>
@@ -44,6 +44,7 @@
 &lt;/ul&gt;
 	&lt;p&gt;&lt;a href='http://chicagolobbyists.org/lobbyists/ronald-johnson'&gt;&lt;img style=&quot;border: 1px solid #ccc; &quot; src='/images/v2-lobbyist-detail.png' alt='Lobbyist detail - Ronald Johnson' title='Lobbyist detail - Ronald Johnson' /&gt;&lt;/a&gt; &lt;/p&gt;
 &lt;/li&gt;
+	&lt;li&gt;Global site search (using &lt;a href='http://www.google.com/cse/'&gt;Google custom search engine&lt;/a&gt;)&lt;/li&gt;
 	&lt;li&gt;&lt;p&gt;Every lobbyist action has a client associated with it&lt;/p&gt;&lt;/li&gt;
 	&lt;li&gt;&lt;p&gt;Every lobbyist payment shows the client who paid them&lt;/li&gt;
 	&lt;li&gt;&lt;p&gt;Categorized lobbyist expenditures (office expenses, food, travel, education, etc) are now listed&lt;/li&gt;
