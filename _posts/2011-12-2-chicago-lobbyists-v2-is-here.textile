@@ -1,0 +1,45 @@
+---
+layout: post
+title: Chicago Lobbyists Version 2 Is Here
+author: Derek 
+---
+by Derek Eder
+
+Dec 2, 2011 - We just rolled out a new version of Chicago Lobbyists last night. Thanks to our meetings with Chicago CDO <a href='https://twitter.com/#!/ChicagoCDO'>Brett Goldstein</a> and the efforts from his staff, we now have the ability to show: 
+
+<ul>
+	<li>What clients paid to each lobbyist (and how much)</li>
+	<li>Which actions clients hired lobbyists to take</li>
+	<li>How much money each client spent (total) on lobbyists in 2010</li>
+</ul>
+
+The new data also seems to have been cleaned up and normalized quite a bit (we still had to do some normalizing ourselves - especially with addresses), resulting in a more accurate picture of lobbying activity in Chicago for 2010.
+
+Here is a rundown of the new features:
+
+<ol>
+	<li><p><a href='http://chicagolobbyists.org/clients'>Most active clients</a> is now determined by amount spent instead of number of lobbyists hired (<a href='http://chicagolobbyists.org/clients/salvation-army'>Salvation Army</a>, you are now #1 with $380,000 spent on lobbyists in 2010)</p>
+	<p><a href='http://chicagolobbyists.org/clients/'><img style="border: 1px solid #ccc; " src='/images/v2-client-list.png' alt='New client listing' title='New client listing' /></a> </p>
+	</li>
+	<li>
+	All detail pages have a summary section at the top, displaying total amounts, number of lobbyists, number of clients, number of firms, and number of actions (depending on what you're viewing). Here's an example of each:
+	<ul>
+		<li>Lobbyist - <a href='http://chicagolobbyists.org/lobbyists/ronald-johnson'>Ronald Johnson</a></li>
+		<li>Firm - <a href='http://chicagolobbyists.org/firms/neal-and-leroy-llc'>Neal & Leroy, LLC</a></li>
+		<li>Client - <a href='http://chicagolobbyists.org/clients/fifth-third-bank'>Fifth Third Bank</a></li>
+		<li>Agency - <a href='http://chicagolobbyists.org/agencies/city-council'>City Council</a></li>
+	</ul>
+	<p><a href='http://chicagolobbyists.org/lobbyists/ronald-johnson'><img style="border: 1px solid #ccc; " src='/images/v2-lobbyist-detail.png' alt='Lobbyist detail - Ronald Johnson' title='Lobbyist detail - Ronald Johnson' /></a> </p>
+	</li>
+	<li><p>Every lobbyist action has a client associated with it</p></li>
+	<li><p>Every lobbyist payment shows the client who paid them</li>
+	<li><p>Categorized lobbyist expenditures (office expenses, food, travel, education, etc) are now listed</li>
+	<li>We cross referenced the City of Chicago <a href='http://data.cityofchicago.org/Administration-Finance/Payments/s4vu-giwb'>Payments database</a>, and listed all payments by Chicago to each client (example: <a href='http://chicagolobbyists.org/clients/christy-webber-landscapes'>Christy Webber Landscapes</a>)
+	<p><a href='http://chicagolobbyists.org/clients/'><img style="border: 1px solid #ccc; " src='/images/v2-city-payments.png' alt='Christy Webber Landscapes - City Payments' title='Christy Webber Landscapes - City Payments' /></a> </p>
+	</li>
+	<li><p>All detail pages now have tabs for each section so you can see all the rich data, without cluttering the page</li>
+	<li><p>All data on the detail pages is sortable and searchable (thanks to jQuery <a href='http://datatables.net/'>Datatables</a>)</li>
+	<li>All detail pages have comments (powered by <a href='http://disqus.com/dashboard/'>Disqus</a>)</li>
+</ol>
+
+We're all really excited about these new updates. We now have the most accurate and detailed visualization of lobbyist activities around. That's something to be proud of.c

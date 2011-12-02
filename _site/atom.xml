@@ -4,13 +4,58 @@
   <title>blog.chicagolobbyists.org</title>
   <link href="http://blog.chicagolobbyists.org/"/>
   <link type="application/atom+xml" rel="self" href="http://blog.chicagolobbyists.org/atom.xml"/>
-  <updated>2011-12-01T16:02:01-06:00</updated>
+  <updated>2011-12-02T10:25:43-06:00</updated>
   <id>http://blog.chicagolobbyists.org/</id>
   <author>
     <name>Chicago Lobbyists Blog</name>
     <email>chi.lobbyists@gmail.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://blog.chicagolobbyists.org/2011/12/02/chicago-lobbyists-v2-is-here</id>
+    <link type="text/html" rel="alternate" href="http://blog.chicagolobbyists.org/2011/12/02/chicago-lobbyists-v2-is-here/"/>
+    <title>Chicago Lobbyists Version 2 Is Here</title>
+    <updated>2011-12-02T00:00:00-06:00</updated>
+    <author>
+      <name>Chicago Lobbyists</name>
+      <uri>http://blog.chicagolobbyists.org/</uri>
+    </author>
+    <content type="html">&lt;p&gt;by Derek Eder&lt;/p&gt;
+&lt;p&gt;Dec 2, 2011 &amp;#8211; We just rolled out a new version of Chicago Lobbyists last night. Thanks to our meetings with Chicago &lt;span class=&quot;caps&quot;&gt;CDO&lt;/span&gt; &lt;a href='https://twitter.com/#!/ChicagoCDO'&gt;Brett Goldstein&lt;/a&gt; and the efforts from his staff, we now have the ability to show:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;What clients paid to each lobbyist (and how much)&lt;/li&gt;
+	&lt;li&gt;Which actions clients hired lobbyists to take&lt;/li&gt;
+	&lt;li&gt;How much money each client spent (total) on lobbyists in 2010&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The new data also seems to have been cleaned up and normalized quite a bit (we still had to do some normalizing ourselves &amp;#8211; especially with addresses), resulting in a more accurate picture of lobbying activity in Chicago for 2010.&lt;/p&gt;
+&lt;p&gt;Here is a rundown of the new features:&lt;/p&gt;
+&lt;ol&gt;
+	&lt;li&gt;&lt;p&gt;&lt;a href='http://chicagolobbyists.org/clients'&gt;Most active clients&lt;/a&gt; is now determined by amount spent instead of number of lobbyists hired (&lt;a href='http://chicagolobbyists.org/clients/salvation-army'&gt;Salvation Army&lt;/a&gt;, you are now #1 with $380,000 spent on lobbyists in 2010)&lt;/p&gt;
+	&lt;p&gt;&lt;a href='http://chicagolobbyists.org/clients/'&gt;&lt;img style=&quot;border: 1px solid #ccc; &quot; src='/images/v2-client-list.png' alt='New client listing' title='New client listing' /&gt;&lt;/a&gt; &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;All detail pages have a summary section at the top, displaying total amounts, number of lobbyists, number of clients, number of firms, and number of actions (depending on what you&amp;#8217;re viewing). Here&amp;#8217;s an example of each:&lt;br /&gt;
+	&lt;ul&gt;&lt;br /&gt;
+		&lt;li&gt;Lobbyist &amp;#8211; &lt;a href='http://chicagolobbyists.org/lobbyists/ronald-johnson'&gt;Ronald Johnson&lt;/a&gt;&lt;/li&gt;&lt;br /&gt;
+		&lt;li&gt;Firm &amp;#8211; &lt;a href='http://chicagolobbyists.org/firms/neal-and-leroy-llc'&gt;Neal &amp;amp; Leroy, &lt;span class=&quot;caps&quot;&gt;LLC&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;br /&gt;
+		&lt;li&gt;Client &amp;#8211; &lt;a href='http://chicagolobbyists.org/clients/fifth-third-bank'&gt;Fifth Third Bank&lt;/a&gt;&lt;/li&gt;&lt;br /&gt;
+		&lt;li&gt;Agency &amp;#8211; &lt;a href='http://chicagolobbyists.org/agencies/city-council'&gt;City Council&lt;/a&gt;&lt;/li&gt;&lt;/p&gt;
+&lt;/ul&gt;
+	&lt;p&gt;&lt;a href='http://chicagolobbyists.org/lobbyists/ronald-johnson'&gt;&lt;img style=&quot;border: 1px solid #ccc; &quot; src='/images/v2-lobbyist-detail.png' alt='Lobbyist detail - Ronald Johnson' title='Lobbyist detail - Ronald Johnson' /&gt;&lt;/a&gt; &lt;/p&gt;
+&lt;/li&gt;
+	&lt;li&gt;&lt;p&gt;Every lobbyist action has a client associated with it&lt;/p&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;p&gt;Every lobbyist payment shows the client who paid them&lt;/li&gt;
+	&lt;li&gt;&lt;p&gt;Categorized lobbyist expenditures (office expenses, food, travel, education, etc) are now listed&lt;/li&gt;
+	&lt;li&gt;We cross referenced the City of Chicago &lt;a href='http://data.cityofchicago.org/Administration-Finance/Payments/s4vu-giwb'&gt;Payments database&lt;/a&gt;, and listed all payments by Chicago to each client (example: &lt;a href='http://chicagolobbyists.org/clients/christy-webber-landscapes'&gt;Christy Webber Landscapes&lt;/a&gt;)&lt;br /&gt;
+	&lt;p&gt;&lt;a href='http://chicagolobbyists.org/clients/'&gt;&lt;img style=&quot;border: 1px solid #ccc; &quot; src='/images/v2-city-payments.png' alt='Christy Webber Landscapes - City Payments' title='Christy Webber Landscapes - City Payments' /&gt;&lt;/a&gt; &lt;/p&gt;
+&lt;/li&gt;
+	&lt;li&gt;&lt;p&gt;All detail pages now have tabs for each section so you can see all the rich data, without cluttering the page&lt;/li&gt;
+	&lt;li&gt;&lt;p&gt;All data on the detail pages is sortable and searchable (thanks to jQuery &lt;a href='http://datatables.net/'&gt;Datatables&lt;/a&gt;)&lt;/li&gt;
+	&lt;li&gt;All detail pages have comments (powered by &lt;a href='http://disqus.com/dashboard/'&gt;Disqus&lt;/a&gt;)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;We&amp;#8217;re all really excited about these new updates. We now have the most accurate and detailed visualization of lobbyist activities around. That&amp;#8217;s something to be proud of.c&lt;/p&gt;</content>
+  </entry>
   
   <entry>
     <id>http://blog.chicagolobbyists.org/2011/12/01/an-open-data-story</id>
