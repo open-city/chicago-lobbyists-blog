@@ -19,7 +19,7 @@ Here is a rundown of the new features:
 
 <ol>
 	<li><p><a href='http://chicagolobbyists.org/clients'>Most active clients</a> is now determined by amount spent instead of number of lobbyists hired (<a href='http://chicagolobbyists.org/clients/salvation-army'>Salvation Army</a>, you are now #1 with $380,000 spent on lobbyists in 2010)</p>
-	<p><a href='http://chicagolobbyists.org/clients/'><img style="border: 1px solid #ccc; " src='/images/v2-client-list.png' alt='New client listing' title='New client listing' /></a> </p>
+	<p><a href='http://chicagolobbyists.org/clients'><img style="border: 1px solid #ccc; " src='/images/v2-client-list.png' alt='New client listing' title='New client listing' /></a> </p>
 	</li>
 	<li>
 	All detail pages have a summary section at the top, displaying total amounts, number of lobbyists, number of clients, number of firms, and number of actions (depending on what you're viewing). Here's an example of each:
@@ -36,7 +36,7 @@ Here is a rundown of the new features:
 	<li><p>Every lobbyist payment shows the client who paid them</li>
 	<li><p>Categorized lobbyist expenditures (office expenses, food, travel, education, etc) are now listed</li>
 	<li><p>We cross referenced the City of Chicago <a href='http://data.cityofchicago.org/Administration-Finance/Payments/s4vu-giwb'>Payments database</a>, and listed all payments by Chicago to each client (example: <a href='http://chicagolobbyists.org/clients/christy-webber-landscapes'>Christy Webber Landscapes</a>)
-	<p><a href='http://chicagolobbyists.org/clients/'><img style="border: 1px solid #ccc; " src='/images/v2-city-payments.png' alt='Christy Webber Landscapes - City Payments' title='Christy Webber Landscapes - City Payments' /></a> </p>
+	<p><a href='http://chicagolobbyists.org/clients/christy-webber-landscapes'><img style="border: 1px solid #ccc; " src='/images/v2-city-payments.png' alt='Christy Webber Landscapes - City Payments' title='Christy Webber Landscapes - City Payments' /></a> </p>
 	</li>
 	<li><p>All detail pages now have tabs for each section so you can see all the rich data, without cluttering the page</li>
 	<li><p>All data on the detail pages is sortable and searchable (thanks to jQuery <a href='http://datatables.net/'>Datatables</a>)</li>

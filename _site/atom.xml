@@ -4,7 +4,7 @@
   <title>blog.chicagolobbyists.org</title>
   <link href="http://blog.chicagolobbyists.org/"/>
   <link type="application/atom+xml" rel="self" href="http://blog.chicagolobbyists.org/atom.xml"/>
-  <updated>2011-12-03T09:43:24-06:00</updated>
+  <updated>2011-12-06T10:52:12-06:00</updated>
   <id>http://blog.chicagolobbyists.org/</id>
   <author>
     <name>Chicago Lobbyists Blog</name>
@@ -32,7 +32,7 @@
 &lt;p&gt;Here is a rundown of the new features:&lt;/p&gt;
 &lt;ol&gt;
 	&lt;li&gt;&lt;p&gt;&lt;a href='http://chicagolobbyists.org/clients'&gt;Most active clients&lt;/a&gt; is now determined by amount spent instead of number of lobbyists hired (&lt;a href='http://chicagolobbyists.org/clients/salvation-army'&gt;Salvation Army&lt;/a&gt;, you are now #1 with $380,000 spent on lobbyists in 2010)&lt;/p&gt;
-	&lt;p&gt;&lt;a href='http://chicagolobbyists.org/clients/'&gt;&lt;img style=&quot;border: 1px solid #ccc; &quot; src='/images/v2-client-list.png' alt='New client listing' title='New client listing' /&gt;&lt;/a&gt; &lt;/p&gt;
+	&lt;p&gt;&lt;a href='http://chicagolobbyists.org/clients'&gt;&lt;img style=&quot;border: 1px solid #ccc; &quot; src='/images/v2-client-list.png' alt='New client listing' title='New client listing' /&gt;&lt;/a&gt; &lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;All detail pages have a summary section at the top, displaying total amounts, number of lobbyists, number of clients, number of firms, and number of actions (depending on what you&amp;#8217;re viewing). Here&amp;#8217;s an example of each:&lt;br /&gt;
@@ -49,7 +49,7 @@
 	&lt;li&gt;&lt;p&gt;Every lobbyist payment shows the client who paid them&lt;/li&gt;
 	&lt;li&gt;&lt;p&gt;Categorized lobbyist expenditures (office expenses, food, travel, education, etc) are now listed&lt;/li&gt;
 	&lt;li&gt;&lt;p&gt;We cross referenced the City of Chicago &lt;a href='http://data.cityofchicago.org/Administration-Finance/Payments/s4vu-giwb'&gt;Payments database&lt;/a&gt;, and listed all payments by Chicago to each client (example: &lt;a href='http://chicagolobbyists.org/clients/christy-webber-landscapes'&gt;Christy Webber Landscapes&lt;/a&gt;)&lt;br /&gt;
-	&lt;p&gt;&lt;a href='http://chicagolobbyists.org/clients/'&gt;&lt;img style=&quot;border: 1px solid #ccc; &quot; src='/images/v2-city-payments.png' alt='Christy Webber Landscapes - City Payments' title='Christy Webber Landscapes - City Payments' /&gt;&lt;/a&gt; &lt;/p&gt;
+	&lt;p&gt;&lt;a href='http://chicagolobbyists.org/clients/christy-webber-landscapes'&gt;&lt;img style=&quot;border: 1px solid #ccc; &quot; src='/images/v2-city-payments.png' alt='Christy Webber Landscapes - City Payments' title='Christy Webber Landscapes - City Payments' /&gt;&lt;/a&gt; &lt;/p&gt;
 &lt;/li&gt;
 	&lt;li&gt;&lt;p&gt;All detail pages now have tabs for each section so you can see all the rich data, without cluttering the page&lt;/li&gt;
 	&lt;li&gt;&lt;p&gt;All data on the detail pages is sortable and searchable (thanks to jQuery &lt;a href='http://datatables.net/'&gt;Datatables&lt;/a&gt;)&lt;/li&gt;
