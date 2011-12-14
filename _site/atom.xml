@@ -4,13 +4,59 @@
   <title>blog.chicagolobbyists.org</title>
   <link href="http://blog.chicagolobbyists.org/"/>
   <link type="application/atom+xml" rel="self" href="http://blog.chicagolobbyists.org/atom.xml"/>
-  <updated>2011-12-06T10:52:12-06:00</updated>
+  <updated>2011-12-14T11:03:46-06:00</updated>
   <id>http://blog.chicagolobbyists.org/</id>
   <author>
     <name>Chicago Lobbyists Blog</name>
     <email>chi.lobbyists@gmail.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://blog.chicagolobbyists.org/2011/12/14/chicago-lobbyists-a4mc-finalist</id>
+    <link type="text/html" rel="alternate" href="http://blog.chicagolobbyists.org/2011/12/14/chicago-lobbyists-a4mc-finalist/"/>
+    <title>We are a finalist in Apps for Metro Chicago</title>
+    <updated>2011-12-14T00:00:00-06:00</updated>
+    <author>
+      <name>Chicago Lobbyists</name>
+      <uri>http://blog.chicagolobbyists.org/</uri>
+    </author>
+    <content type="html">&lt;p&gt;by Derek Eder&lt;/p&gt;
+&lt;p&gt;Dec 14, 2011 &amp;#8211; Last night, &lt;a href='http://appsformetrochicago.com/'&gt;Apps For Metro Chicago&lt;/a&gt; announced the 20 finalists for their Grand Challenge. The winners will be announced on Dec 16 at 10:30am. The Grand Challenge winner will be awarded $10,000. &lt;a href='http://appsformetrochicago.com/rules#prizes'&gt;More on the awards here&lt;/a&gt;. Good luck to everyone!&lt;/p&gt;
+&lt;h3&gt;Judges&amp;#8217; Picks (5)&lt;/h3&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href='http://chicagolobbyists.org'&gt;Chicago Lobbyists&lt;/a&gt; &amp;#8211; Chicago Lobbyists is a web based app that is an open data, open government, and open source project intended to improve the transparency of interactions between the City of Chicago and lobbyists and their clients.&lt;/li&gt;
+	&lt;li&gt;&lt;a href='http://www.allschedulesapp.com/'&gt;allSchedules&lt;/a&gt; &amp;#8211; AllSchedules gives you access to a huge collection of transit schedules, for different transport modes (bus, metro,train, tram ferry, etc.), in multiple cities around the world. &lt;/li&gt;
+	&lt;li&gt;&lt;a href='http://www.owtsee.com/'&gt;OwtSee&lt;/a&gt; &amp;#8211; OwtSee is an Android based and a web based application that presents information about the Chicago parks and community events in one convenient  place. &lt;/li&gt;
+	&lt;li&gt;&lt;a href='http://www.spotholechicago.com/'&gt;Spot Hole&lt;/a&gt; &amp;#8211; This app is a tool that improves the process of citizens reporting potholes and helps the city clarify and address those concerns.&lt;/li&gt;
+	&lt;li&gt;&lt;a href='http://www.transitstopapp.com/CTATracker/'&gt;Transit Stop: &lt;span class=&quot;caps&quot;&gt;CTA&lt;/span&gt; Tracker&lt;/a&gt; &amp;#8211; This mobile app gives you quick and easy access to bus and train (‘L’) arrival time estimates for every Chicago Transit Authority (&lt;span class=&quot;caps&quot;&gt;CTA&lt;/span&gt;) bus and train stop.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Public voting picks (5)&lt;/h3&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href='http://taxisharechicago.com/'&gt;Taxi Share&lt;/a&gt; &amp;#8211; Taxi Share is an application designed to increase efficiency, reduce CO2 emississions and cut down on already congested streets and highways.  The app allows users to find each other and share a cab to popular destinations around the city and to the major airports. &lt;/li&gt;
+	&lt;li&gt;&lt;a href='http://crimealertchicago.org/'&gt;Crime Alert&lt;/a&gt; &amp;#8211; Crime Alert is a cross-platform web application, resource page, blog, and &lt;span class=&quot;caps&quot;&gt;SMS&lt;/span&gt; service that serves to alert users of crime in their community and surrounding area as rapidly as possible user-inputted addresses, and heavily customizable filters so that users only receive information that they believe to be relevant to their lives.&lt;/li&gt;
+	&lt;li&gt;&lt;a href='http://massup.us/'&gt;MassUp.us&lt;/a&gt; &amp;#8211; is Chicago&amp;#8217;s &amp;quot;Social Cycling System. &amp;quot; It&amp;#8217;s a Web App comprehensively meeting the needs of urban bicyclists. It features maps, directions, compass, ride recording, calorie counter, speedometer, weather and much more.&lt;/li&gt;
+	&lt;li&gt;&lt;a href='http://ghabit.com/'&gt;Make Green a Habit&lt;/a&gt; &amp;#8211;  This is a green social network with a simple goal: to inspire people and organizations to create a greener and sustainable habitat. Ghabit uses social media technology to allow users to create an online green community, track and compare green habits, and much more!&lt;/li&gt;
+	&lt;li&gt;&lt;a href='https://sites.google.com/site/rezmobileapps/treking'&gt;TreKing&lt;/a&gt; – The only Android app to support all four major transit systems in Chicago.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Winners carried over from previous rounds (10)&lt;/h3&gt;
+&lt;h4&gt;Community Round&lt;/h4&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href='http://ifinditchicago.wordpress.com/'&gt;iFindit Chicago&lt;/a&gt; &amp;#8211; An android app that is designed to help low income and homeless residents connect with critical resources such as medical clinics, food pantries, shelters etc.&lt;/li&gt;
+	&lt;li&gt;&lt;a href='http://miparquelv.wordpress.com/'&gt;Mi Parque&lt;/a&gt; &amp;#8211; is a bilingual participatory placemaking web and smartphone application that helps residents of the community contribute and share their vision for the future of Little Village’s new park. Community members can submit ideas about how to make this park, and other open spaces in the area, safer, greener and healthier places that meet community needs&lt;/li&gt;
+	&lt;li&gt;&lt;a href='http://www.cyberwalkabout.com/'&gt;Chicago Local Guide&lt;/a&gt; &amp;#8211; is an android app is meant to help local people as well as tourists find:  interesting places and points-of-interest near them; locate specials and promotions from local businesses; updates on cultural, social, and technology events around Chicago; and breaking local news.&lt;/li&gt;
+	&lt;li&gt;&lt;a href='http://www.okcopay.com/'&gt;OkCopay&lt;/a&gt; &amp;#8211; A comparison search engine for medical care that allows users to search for the procedure they need, compare local providers, and view their actual prices.&lt;/li&gt;
+	&lt;li&gt;&lt;a href='http://aqualab.cs.northwestern.edu/projects/Fixit.html'&gt;Fixit!&lt;/a&gt; &amp;#8211; A mobile app that allows Chicagoans to report issues, like public property damages, that require city attention.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Transportation Round&lt;/h4&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href='http://spothero.com/'&gt;SpotHero&lt;/a&gt; -Spothero efficiently connects parking demand and parking supply.  We allow parking spot owners to earn income by renting their spot when it&amp;#8217;s unoccupied&lt;/li&gt;
+	&lt;li&gt;&lt;a href='http://faspark.com/market/'&gt;FasPark&lt;/a&gt; -Faspark helps drivers find street parking in real time.&lt;/li&gt;
+	&lt;li&gt;&lt;a href='http://chicago.inthirty.com/'&gt;InThirty&lt;/a&gt; &amp;#8211; Use InThirty to see the Chicago city resources that you can access within a thirty-minute train, bus, or walk.&lt;/li&gt;
+	&lt;li&gt;&lt;a href='https://market.android.com/details?id=edu.northwestern.cs.aqualab.android.TrailBlazeChicago&amp;hl=en'&gt;TrailBlaze Chicago&lt;/a&gt; &amp;#8211; TrailBlaze Chicago records and anonymously reports your bicycle tracks, allowing you to vote for new paths simply by carrying your phone while you bike.&lt;/li&gt;
+	&lt;li&gt;&lt;a href='http://itunes.apple.com/us/app/gochicago/id457501927?mt=8'&gt;GoChicago&lt;/a&gt; &amp;#8211;  With GoChicago, users can make a list of the places in Chicago they&amp;#8217;d like to see, view directions to each place on a map, or call the place for more information.&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
   
   <entry>
     <id>http://blog.chicagolobbyists.org/2011/12/02/chicago-lobbyists-v2-is-here</id>
