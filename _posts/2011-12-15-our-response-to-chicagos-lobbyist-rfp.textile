@@ -5,10 +5,10 @@ author: Derek
 ---
 by Derek Eder
 
-Dec 15, 2011 - The City of Chicago put out a <a href='http://chicagolobbyists.org/docs/Spec101998.pdf'>Request for Proposals (RFP)</a> to create an online lobbyist registration system. This RFP stems directly from an <a href='http://blogs.wttw.com/moreonthestory/2011/07/28/city-council-passes-ethics-reform-ordinance/'>ethics ordinance</a> passed on July 28th 2011. 
+Dec 15, 2011 - The City of Chicago put out a <a href='/docs/Spec101998.pdf'>Request for Proposals (RFP)</a> to create an online lobbyist registration system. This RFP stems directly from an <a href='http://blogs.wttw.com/moreonthestory/2011/07/28/city-council-passes-ethics-reform-ordinance/'>ethics ordinance</a> passed on July 28th 2011. 
 
 <h3>The RFP</h3>
-<p><a href='http://chicagolobbyists.org/docs/Spec101998.pdf'><img style="border: 1px solid #ccc; " src='/images/RFP-cover.png' alt='City of Chicago Lobbyist Disclosure System RFP' title='City of Chicago Lobbyist Disclosure System RFP' /></a> </p>
+<p><a href='/docs/Spec101998.pdf'><img style="border: 1px solid #ccc; " src='/images/RFP-cover.png' alt='City of Chicago Lobbyist Disclosure System RFP' title='City of Chicago Lobbyist Disclosure System RFP' /></a> </p>
 
 
 The RFP's objectives are for an outside contractor to build a system that will
@@ -37,9 +37,9 @@ Needless to say, this approach to an RFP results in proposals from one type of c
 As a group of volunteers working in our free time on this project, we are not what this RFP is targeting. We are, however, very competent developers and designers and have become experts on this lobbying data and how to display it. If the third objective of the RFP (above) sounds familiar to you, that's because you've been to <a href='http://chicagolobbyists.org'>ChicagoLobbyists.org</a>. Objective 3 has already been met by us.
 
 <h3>Our proposal</h3>
-Despite not being able to fulfill most of the requirements of the RFP, we went ahead and responded anyway. We expect the city to pick one of their usual contractors, but hope that they will consider us as additional consultants for the design and front end development. You can <a href='http://chicagolobbyists.org/docs/ChicagoLobbyistsProposal.docx'>download our RFP response here</a>.
+Despite not being able to fulfill most of the requirements of the RFP, we went ahead and responded anyway. We expect the city to pick one of their usual contractors, but hope that they will consider us as additional consultants for the design and front end development. You can <a href='/docs/ChicagoLobbyistsProposal.docx'>download our RFP response here</a>.
 
-<p><a href='http://chicagolobbyists.org/docs/ChicagoLobbyistsProposal.docx'><img style="border: 1px solid #ccc; " src='/images/RFP-response-packet.jpg' alt='Chicago Lobbyists RFP response' title='Chicago Lobbyists RFP response' /></a> </p>
+<p><a href='/docs/ChicagoLobbyistsProposal.docx'><img style="border: 1px solid #ccc; " src='/images/RFP-response-packet.jpg' alt='Chicago Lobbyists RFP response' title='Chicago Lobbyists RFP response' /></a> </p>
 
 In the proposal, besides showcasing the work we have already done, we offer to do the following:
 
