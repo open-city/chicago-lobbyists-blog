@@ -4,7 +4,7 @@
   <title>blog.chicagolobbyists.org</title>
   <link href="http://blog.chicagolobbyists.org/"/>
   <link type="application/atom+xml" rel="self" href="http://blog.chicagolobbyists.org/atom.xml"/>
-  <updated>2011-12-15T16:15:41-06:00</updated>
+  <updated>2011-12-15T17:00:35-06:00</updated>
   <id>http://blog.chicagolobbyists.org/</id>
   <author>
     <name>Chicago Lobbyists Blog</name>
@@ -44,8 +44,8 @@
 &lt;p&gt;Needless to say, this approach to an &lt;span class=&quot;caps&quot;&gt;RFP&lt;/span&gt; results in proposals from one type of contractor: firms that are very large and able to jump through all the hoops that the City has to ensure the minimum amount of risk and liability for the City itself. The idea is, if they remove all apparent risk in the selection process, no one will be to blame if the project fails since they vetted the options so thoroughly. What the contractor actually builds and how they plan on going about it is completely secondary. This type of process rarely provides high quality products at a reasonable price, especially in software development.&lt;/p&gt;
 &lt;p&gt;As a group of volunteers working in our free time on this project, we are not what this &lt;span class=&quot;caps&quot;&gt;RFP&lt;/span&gt; is targeting. We are, however, very competent developers and designers and have become experts on this lobbying data and how to display it. If the third objective of the &lt;span class=&quot;caps&quot;&gt;RFP&lt;/span&gt; (above) sounds familiar to you, that&amp;#8217;s because you&amp;#8217;ve been to &lt;a href='http://chicagolobbyists.org'&gt;ChicagoLobbyists.org&lt;/a&gt;. We have already met objective 3.&lt;/p&gt;
 &lt;h3&gt;Our proposal&lt;/h3&gt;
-&lt;p&gt;Despite not being able to fulfill most of the requirements of the &lt;span class=&quot;caps&quot;&gt;RFP&lt;/span&gt;, we went ahead and responded anyway. We expect the city to pick one of their usual contractors, but hope that they will consider us as additional consultants for the design and front end development. You can &lt;a href='/docs/ChicagoLobbyistsProposal.docx'&gt;download our &lt;span class=&quot;caps&quot;&gt;RFP&lt;/span&gt; response here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href='/docs/ChicagoLobbyistsProposal.docx'&gt;&lt;img style=&quot;border: 1px solid #ccc; &quot; src='/images/RFP-response-packet.jpg' alt='Chicago Lobbyists RFP response' title='Chicago Lobbyists RFP response' /&gt;&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;Despite not being able to fulfill most of the requirements of the &lt;span class=&quot;caps&quot;&gt;RFP&lt;/span&gt;, we went ahead and responded anyway. We expect the city to pick one of their usual contractors, but hope that they will consider us as additional consultants for the design and front end development. You can &lt;a href='/docs/ChicagoLobbyistsProposal.pdf'&gt;download our &lt;span class=&quot;caps&quot;&gt;RFP&lt;/span&gt; response here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href='/docs/ChicagoLobbyistsProposal.pdf'&gt;&lt;img style=&quot;border: 1px solid #ccc; &quot; src='/images/RFP-response-packet.jpg' alt='Chicago Lobbyists RFP response' title='Chicago Lobbyists RFP response' /&gt;&lt;/a&gt; &lt;/p&gt;
 &lt;p&gt;In the proposal, besides showcasing the work we have already done, we offer to do the following:&lt;/p&gt;
 &lt;ul&gt;
 	&lt;li&gt;Design research, initially involving interviews with lobbyists entering the data, with the public that views data visualizations, and with city personnel charged with carrying out the ordinance&lt;/li&gt; 

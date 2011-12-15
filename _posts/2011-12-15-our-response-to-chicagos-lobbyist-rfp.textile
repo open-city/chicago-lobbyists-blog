@@ -37,9 +37,9 @@ Needless to say, this approach to an RFP results in proposals from one type of c
 As a group of volunteers working in our free time on this project, we are not what this RFP is targeting. We are, however, very competent developers and designers and have become experts on this lobbying data and how to display it. If the third objective of the RFP (above) sounds familiar to you, that's because you've been to <a href='http://chicagolobbyists.org'>ChicagoLobbyists.org</a>. We have already met objective 3.
 
 <h3>Our proposal</h3>
-Despite not being able to fulfill most of the requirements of the RFP, we went ahead and responded anyway. We expect the city to pick one of their usual contractors, but hope that they will consider us as additional consultants for the design and front end development. You can <a href='/docs/ChicagoLobbyistsProposal.docx'>download our RFP response here</a>.
+Despite not being able to fulfill most of the requirements of the RFP, we went ahead and responded anyway. We expect the city to pick one of their usual contractors, but hope that they will consider us as additional consultants for the design and front end development. You can <a href='/docs/ChicagoLobbyistsProposal.pdf'>download our RFP response here</a>.
 
-<p><a href='/docs/ChicagoLobbyistsProposal.docx'><img style="border: 1px solid #ccc; " src='/images/RFP-response-packet.jpg' alt='Chicago Lobbyists RFP response' title='Chicago Lobbyists RFP response' /></a> </p>
+<p><a href='/docs/ChicagoLobbyistsProposal.pdf'><img style="border: 1px solid #ccc; " src='/images/RFP-response-packet.jpg' alt='Chicago Lobbyists RFP response' title='Chicago Lobbyists RFP response' /></a> </p>
 
 In the proposal, besides showcasing the work we have already done, we offer to do the following:
 
