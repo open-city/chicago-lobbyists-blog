@@ -1,0 +1,61 @@
+---
+layout: post
+title: Our Response to Chicago's RFP for a Lobbyist Registration System
+author: Derek 
+---
+by Derek Eder
+
+Dec 15, 2011 - The City of Chicago put out a <a href='http://chicagolobbyists.org/docs/Spec101998.pdf'>Request for Proposals (RFP)</a> to create an online lobbyist registration system. This RFP stems directly from an <a href='http://blogs.wttw.com/moreonthestory/2011/07/28/city-council-passes-ethics-reform-ordinance/'>ethics ordinance</a> passed on July 28th 2011. 
+
+<h3>The RFP</h3>
+<p><a href='http://chicagolobbyists.org/docs/Spec101998.pdf'><img style="border: 1px solid #ccc; " src='/images/RFP-cover.png' alt='City of Chicago Lobbyist Disclosure System RFP' title='City of Chicago Lobbyist Disclosure System RFP' /></a> </p>
+
+
+The RFP's objectives are for an outside contractor to build a system that will
+
+<ol>
+	<li>enable lobbyists registered with the City to file, on line, all retired registration documents and activity reports.</li>
+	<li>enable the Department to review and approve these filings as quickly as possible and communicate with lobbyists who must and have not completed their filing requirements.</li>
+	<li>make data compiled from all lobbyists' filings publicly available on line in various searchable, queriable reporting formats.</li>
+</ol>
+
+Because of the work we have already done, and our goal to help bring openness and transparency to the City of Chicago, the people who created Chicago Lobbyists have decided to respond to this RFP. 
+
+<h3>The challenge</h3>
+Responding to an RFP for the City of Chicago is a herculean task. In the 152 pages, in addition to the usual cover letter, cost proposal, timeframe, etc, the responder must provide
+
+<ul>
+	<li>a project management/implementation plan (including org chart, all software and third party products used, etc)</li>
+	<li>audited financial statements for the past 3 years</li>
+	<li>an economic disclosure statement and affidavit (EDS)</li>
+	<li>proof of $500k workers compensation and employers liability</li>
+	<li>proof $2 million in professional liability insurance</li>
+</ul>
+
+Needless to say, this approach to an RFP results in proposals from one type of contractor, very large and able to jump through all the hoops that the City has to ensure the minimum amount of risk and liability for the City itself. The idea is, if they remove all apparent risk in the selection process, no one will be to blame if the project fails since they vetted the options so thoroughly. What the contractor actually builds and how they plan on going about it is completely secondary. This type of process rarely provides high quality products at a reasonable price, especially in software development.
+
+As a group of volunteers working in our free time on this project, we are not what this RFP is targeting. We are, however, very competent developers and designers and have become experts on this lobbying data and how to display it. If the third objective of the RFP (above) sounds familiar to you, that's because you've been to <a href='http://chicagolobbyists.org'>ChicagoLobbyists.org</a>. Objective 3 has already been met by us.
+
+<h3>Our proposal</h3>
+Despite not being able to fulfill most of the requirements of the RFP, we went ahead and responded anyway. We expect the city to pick one of their usual contractors, but hope that they will consider us as additional consultants for the design and front end development. You can <a href='http://chicagolobbyists.org/docs/ChicagoLobbyistsProposal.docx'>download our RFP response here</a>.
+
+<p><a href='http://chicagolobbyists.org/docs/ChicagoLobbyistsProposal.docx'><img style="border: 1px solid #ccc; " src='/images/RFP-response-packet.jpg' alt='Chicago Lobbyists RFP response' title='Chicago Lobbyists RFP response' /></a> </p>
+
+In the proposal, besides showcasing the work we have already done, we offer to do the following:
+
+<ul>
+	<li>Design research, initially involving interviews with lobbyists entering the data, with the public that views data visualizations, and with city personnel charged with carrying out the ordinance</li> 
+	<li>User interface design and HTML/CSS</li> 
+	<li>Usability testing</li> 
+	<li>Web strategy</li> 
+	<li>Adapting ChicagoLobbyist.org design and code under a new city-controlled URL to fulfill the public facing website requirement</li> 
+	<li>Creating an interoperable API for exporting data in a normalized format</li> 
+</ul>
+
+We also advocate releasing as much code and design as possible as open source:
+
+<blockquote>We suggest that, whenever possible, the code, data schemas, and designs should be released as open source. Chicago has a unique opportunity to set an open standard for lobbying data structure, collection, and display—so other municipalities can use it. This will also set a good example for government-related projects that it makes sense to share.
+Moving from proprietary systems to open source makes collaboration and sharing easier and gives access to a wider pool of highly skilled talent. Examples of successful projects include Open 311, which the city plans to implement in 2012, and Open Street Maps, a viable alternative to Google and Bing Maps.</blockquote>
+
+We will have more updates the next few days. 
+

@@ -4,13 +4,62 @@
   <title>blog.chicagolobbyists.org</title>
   <link href="http://blog.chicagolobbyists.org/"/>
   <link type="application/atom+xml" rel="self" href="http://blog.chicagolobbyists.org/atom.xml"/>
-  <updated>2011-12-14T11:11:33-06:00</updated>
+  <updated>2011-12-15T12:32:40-06:00</updated>
   <id>http://blog.chicagolobbyists.org/</id>
   <author>
     <name>Chicago Lobbyists Blog</name>
     <email>chi.lobbyists@gmail.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://blog.chicagolobbyists.org/2011/12/15/our-response-to-chicagos-lobbyist-rfp</id>
+    <link type="text/html" rel="alternate" href="http://blog.chicagolobbyists.org/2011/12/15/our-response-to-chicagos-lobbyist-rfp/"/>
+    <title>Our Response to Chicago's RFP for a Lobbyist Registration System</title>
+    <updated>2011-12-15T00:00:00-06:00</updated>
+    <author>
+      <name>Chicago Lobbyists</name>
+      <uri>http://blog.chicagolobbyists.org/</uri>
+    </author>
+    <content type="html">&lt;p&gt;by Derek Eder&lt;/p&gt;
+&lt;p&gt;Dec 15, 2011 &amp;#8211; The City of Chicago put out a &lt;a href='http://chicagolobbyists.org/docs/Spec101998.pdf'&gt;Request for Proposals (&lt;span class=&quot;caps&quot;&gt;RFP&lt;/span&gt;)&lt;/a&gt; to create an online lobbyist registration system. This &lt;span class=&quot;caps&quot;&gt;RFP&lt;/span&gt; stems directly from an &lt;a href='http://blogs.wttw.com/moreonthestory/2011/07/28/city-council-passes-ethics-reform-ordinance/'&gt;ethics ordinance&lt;/a&gt; passed on July 28th 2011.&lt;/p&gt;
+&lt;h3&gt;The &lt;span class=&quot;caps&quot;&gt;RFP&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href='http://chicagolobbyists.org/docs/Spec101998.pdf'&gt;&lt;img style=&quot;border: 1px solid #ccc; &quot; src='/images/RFP-cover.png' alt='City of Chicago Lobbyist Disclosure System RFP' title='City of Chicago Lobbyist Disclosure System RFP' /&gt;&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;The RFP&amp;#8217;s objectives are for an outside contractor to build a system that will&lt;/p&gt;
+&lt;ol&gt;
+	&lt;li&gt;enable lobbyists registered with the City to file, on line, all retired registration documents and activity reports.&lt;/li&gt;
+	&lt;li&gt;enable the Department to review and approve these filings as quickly as possible and communicate with lobbyists who must and have not completed their filing requirements.&lt;/li&gt;
+	&lt;li&gt;make data compiled from all lobbyists&amp;#8217; filings publicly available on line in various searchable, queriable reporting formats.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Because of the work we have already done, and our goal to help bring openness and transparency to the City of Chicago, the people who created Chicago Lobbyists have decided to respond to this &lt;span class=&quot;caps&quot;&gt;RFP&lt;/span&gt;.&lt;/p&gt;
+&lt;h3&gt;The challenge&lt;/h3&gt;
+&lt;p&gt;Responding to an &lt;span class=&quot;caps&quot;&gt;RFP&lt;/span&gt; for the City of Chicago is a herculean task. In the 152 pages, in addition to the usual cover letter, cost proposal, timeframe, etc, the responder must provide&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;a project management/implementation plan (including org chart, all software and third party products used, etc)&lt;/li&gt;
+	&lt;li&gt;audited financial statements for the past 3 years&lt;/li&gt;
+	&lt;li&gt;an economic disclosure statement and affidavit (&lt;span class=&quot;caps&quot;&gt;EDS&lt;/span&gt;)&lt;/li&gt;
+	&lt;li&gt;proof of $500k workers compensation and employers liability&lt;/li&gt;
+	&lt;li&gt;proof $2 million in professional liability insurance&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Needless to say, this approach to an &lt;span class=&quot;caps&quot;&gt;RFP&lt;/span&gt; results in proposals from one type of contractor, very large and able to jump through all the hoops that the City has to ensure the minimum amount of risk and liability for the City itself. The idea is, if they remove all apparent risk in the selection process, no one will be to blame if the project fails since they vetted the options so thoroughly. What the contractor actually builds and how they plan on going about it is completely secondary. This type of process rarely provides high quality products at a reasonable price, especially in software development.&lt;/p&gt;
+&lt;p&gt;As a group of volunteers working in our free time on this project, we are not what this &lt;span class=&quot;caps&quot;&gt;RFP&lt;/span&gt; is targeting. We are, however, very competent developers and designers and have become experts on this lobbying data and how to display it. If the third objective of the &lt;span class=&quot;caps&quot;&gt;RFP&lt;/span&gt; (above) sounds familiar to you, that&amp;#8217;s because you&amp;#8217;ve been to &lt;a href='http://chicagolobbyists.org'&gt;ChicagoLobbyists.org&lt;/a&gt;. Objective 3 has already been met by us.&lt;/p&gt;
+&lt;h3&gt;Our proposal&lt;/h3&gt;
+&lt;p&gt;Despite not being able to fulfill most of the requirements of the &lt;span class=&quot;caps&quot;&gt;RFP&lt;/span&gt;, we went ahead and responded anyway. We expect the city to pick one of their usual contractors, but hope that they will consider us as additional consultants for the design and front end development. You can &lt;a href='http://chicagolobbyists.org/docs/ChicagoLobbyistsProposal.docx'&gt;download our &lt;span class=&quot;caps&quot;&gt;RFP&lt;/span&gt; response here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href='http://chicagolobbyists.org/docs/ChicagoLobbyistsProposal.docx'&gt;&lt;img style=&quot;border: 1px solid #ccc; &quot; src='/images/RFP-response-packet.jpg' alt='Chicago Lobbyists RFP response' title='Chicago Lobbyists RFP response' /&gt;&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;In the proposal, besides showcasing the work we have already done, we offer to do the following:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Design research, initially involving interviews with lobbyists entering the data, with the public that views data visualizations, and with city personnel charged with carrying out the ordinance&lt;/li&gt; 
+	&lt;li&gt;User interface design and &lt;span class=&quot;caps&quot;&gt;HTML&lt;/span&gt;/&lt;span class=&quot;caps&quot;&gt;CSS&lt;/span&gt;&lt;/li&gt; 
+	&lt;li&gt;Usability testing&lt;/li&gt; 
+	&lt;li&gt;Web strategy&lt;/li&gt; 
+	&lt;li&gt;Adapting ChicagoLobbyist.org design and code under a new city-controlled &lt;span class=&quot;caps&quot;&gt;URL&lt;/span&gt; to fulfill the public facing website requirement&lt;/li&gt; 
+	&lt;li&gt;Creating an interoperable &lt;span class=&quot;caps&quot;&gt;API&lt;/span&gt; for exporting data in a normalized format&lt;/li&gt; 
+&lt;/ul&gt;
+&lt;p&gt;We also advocate releasing as much code and design as possible as open source:&lt;/p&gt;
+&lt;blockquote&gt;We suggest that, whenever possible, the code, data schemas, and designs should be released as open source. Chicago has a unique opportunity to set an open standard for lobbying data structure, collection, and display—so other municipalities can use it. This will also set a good example for government-related projects that it makes sense to share.&lt;br /&gt;
+Moving from proprietary systems to open source makes collaboration and sharing easier and gives access to a wider pool of highly skilled talent. Examples of successful projects include Open 311, which the city plans to implement in 2012, and Open Street Maps, a viable alternative to Google and Bing Maps.&lt;/blockquote&gt;
+&lt;p&gt;We will have more updates the next few days.&lt;/p&gt;</content>
+  </entry>
   
   <entry>
     <id>http://blog.chicagolobbyists.org/2011/12/14/chicago-lobbyists-a4mc-finalist</id>
