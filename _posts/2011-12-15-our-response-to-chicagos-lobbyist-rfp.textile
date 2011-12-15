@@ -32,9 +32,9 @@ Responding to an RFP for the City of Chicago is a herculean task. In the 152 pag
 	<li>proof $2 million in professional liability insurance</li>
 </ul>
 
-Needless to say, this approach to an RFP results in proposals from one type of contractor, very large and able to jump through all the hoops that the City has to ensure the minimum amount of risk and liability for the City itself. The idea is, if they remove all apparent risk in the selection process, no one will be to blame if the project fails since they vetted the options so thoroughly. What the contractor actually builds and how they plan on going about it is completely secondary. This type of process rarely provides high quality products at a reasonable price, especially in software development.
+Needless to say, this approach to an RFP results in proposals from one type of contractor: firms that are very large and able to jump through all the hoops that the City has to ensure the minimum amount of risk and liability for the City itself. The idea is, if they remove all apparent risk in the selection process, no one will be to blame if the project fails since they vetted the options so thoroughly. What the contractor actually builds and how they plan on going about it is completely secondary. This type of process rarely provides high quality products at a reasonable price, especially in software development.
 
-As a group of volunteers working in our free time on this project, we are not what this RFP is targeting. We are, however, very competent developers and designers and have become experts on this lobbying data and how to display it. If the third objective of the RFP (above) sounds familiar to you, that's because you've been to <a href='http://chicagolobbyists.org'>ChicagoLobbyists.org</a>. Objective 3 has already been met by us.
+As a group of volunteers working in our free time on this project, we are not what this RFP is targeting. We are, however, very competent developers and designers and have become experts on this lobbying data and how to display it. If the third objective of the RFP (above) sounds familiar to you, that's because you've been to <a href='http://chicagolobbyists.org'>ChicagoLobbyists.org</a>. We have already met objective 3.
 
 <h3>Our proposal</h3>
 Despite not being able to fulfill most of the requirements of the RFP, we went ahead and responded anyway. We expect the city to pick one of their usual contractors, but hope that they will consider us as additional consultants for the design and front end development. You can <a href='/docs/ChicagoLobbyistsProposal.docx'>download our RFP response here</a>.
@@ -58,5 +58,5 @@ We also advocate releasing as much code and design as possible as open source:
 
 Moving from proprietary systems to open source makes collaboration and sharing easier and gives access to a wider pool of highly skilled talent. Examples of successful projects include Open 311, which the city plans to implement in 2012, and Open Street Maps, a viable alternative to Google and Bing Maps.</blockquote>
 
-We will have more updates the next few days. 
+We will have more updates the next few days. For more background information on government procurement, check out this informative article on The Information Diet: <a href='http://www.informationdiet.com/blog/read/procurement-is-americas-big-problem'>Procurement is America's Big Problem</a> and CivicCommons' wiki on <a href='http://wiki.civiccommons.org/Legal_and_Procurement_Issues_Guide'>Legal and Procurement Issues</a>.
 

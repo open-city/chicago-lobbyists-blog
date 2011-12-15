@@ -4,7 +4,7 @@
   <title>blog.chicagolobbyists.org</title>
   <link href="http://blog.chicagolobbyists.org/"/>
   <link type="application/atom+xml" rel="self" href="http://blog.chicagolobbyists.org/atom.xml"/>
-  <updated>2011-12-15T12:48:44-06:00</updated>
+  <updated>2011-12-15T16:15:41-06:00</updated>
   <id>http://blog.chicagolobbyists.org/</id>
   <author>
     <name>Chicago Lobbyists Blog</name>
@@ -41,8 +41,8 @@
 	&lt;li&gt;proof of $500k workers compensation and employers liability&lt;/li&gt;
 	&lt;li&gt;proof $2 million in professional liability insurance&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Needless to say, this approach to an &lt;span class=&quot;caps&quot;&gt;RFP&lt;/span&gt; results in proposals from one type of contractor, very large and able to jump through all the hoops that the City has to ensure the minimum amount of risk and liability for the City itself. The idea is, if they remove all apparent risk in the selection process, no one will be to blame if the project fails since they vetted the options so thoroughly. What the contractor actually builds and how they plan on going about it is completely secondary. This type of process rarely provides high quality products at a reasonable price, especially in software development.&lt;/p&gt;
-&lt;p&gt;As a group of volunteers working in our free time on this project, we are not what this &lt;span class=&quot;caps&quot;&gt;RFP&lt;/span&gt; is targeting. We are, however, very competent developers and designers and have become experts on this lobbying data and how to display it. If the third objective of the &lt;span class=&quot;caps&quot;&gt;RFP&lt;/span&gt; (above) sounds familiar to you, that&amp;#8217;s because you&amp;#8217;ve been to &lt;a href='http://chicagolobbyists.org'&gt;ChicagoLobbyists.org&lt;/a&gt;. Objective 3 has already been met by us.&lt;/p&gt;
+&lt;p&gt;Needless to say, this approach to an &lt;span class=&quot;caps&quot;&gt;RFP&lt;/span&gt; results in proposals from one type of contractor: firms that are very large and able to jump through all the hoops that the City has to ensure the minimum amount of risk and liability for the City itself. The idea is, if they remove all apparent risk in the selection process, no one will be to blame if the project fails since they vetted the options so thoroughly. What the contractor actually builds and how they plan on going about it is completely secondary. This type of process rarely provides high quality products at a reasonable price, especially in software development.&lt;/p&gt;
+&lt;p&gt;As a group of volunteers working in our free time on this project, we are not what this &lt;span class=&quot;caps&quot;&gt;RFP&lt;/span&gt; is targeting. We are, however, very competent developers and designers and have become experts on this lobbying data and how to display it. If the third objective of the &lt;span class=&quot;caps&quot;&gt;RFP&lt;/span&gt; (above) sounds familiar to you, that&amp;#8217;s because you&amp;#8217;ve been to &lt;a href='http://chicagolobbyists.org'&gt;ChicagoLobbyists.org&lt;/a&gt;. We have already met objective 3.&lt;/p&gt;
 &lt;h3&gt;Our proposal&lt;/h3&gt;
 &lt;p&gt;Despite not being able to fulfill most of the requirements of the &lt;span class=&quot;caps&quot;&gt;RFP&lt;/span&gt;, we went ahead and responded anyway. We expect the city to pick one of their usual contractors, but hope that they will consider us as additional consultants for the design and front end development. You can &lt;a href='/docs/ChicagoLobbyistsProposal.docx'&gt;download our &lt;span class=&quot;caps&quot;&gt;RFP&lt;/span&gt; response here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;a href='/docs/ChicagoLobbyistsProposal.docx'&gt;&lt;img style=&quot;border: 1px solid #ccc; &quot; src='/images/RFP-response-packet.jpg' alt='Chicago Lobbyists RFP response' title='Chicago Lobbyists RFP response' /&gt;&lt;/a&gt; &lt;/p&gt;
@@ -59,7 +59,7 @@
 &lt;blockquote&gt;We suggest that, whenever possible, the code, data schemas, and designs should be released as open source. Chicago has a unique opportunity to set an open standard for lobbying data structure, collection, and display—so other municipalities can use it. This will also set a good example for government-related projects that it makes sense to share.&lt;br /&gt;
 &lt;br /&gt;
 Moving from proprietary systems to open source makes collaboration and sharing easier and gives access to a wider pool of highly skilled talent. Examples of successful projects include Open 311, which the city plans to implement in 2012, and Open Street Maps, a viable alternative to Google and Bing Maps.&lt;/blockquote&gt;
-&lt;p&gt;We will have more updates the next few days.&lt;/p&gt;</content>
+&lt;p&gt;We will have more updates the next few days. For more background information on government procurement, check out this informative article on The Information Diet: &lt;a href='http://www.informationdiet.com/blog/read/procurement-is-americas-big-problem'&gt;Procurement is America&amp;#8217;s Big Problem&lt;/a&gt; and CivicCommons&amp;#8217; wiki on &lt;a href='http://wiki.civiccommons.org/Legal_and_Procurement_Issues_Guide'&gt;Legal and Procurement Issues&lt;/a&gt;.&lt;/p&gt;</content>
   </entry>
   
   <entry>
