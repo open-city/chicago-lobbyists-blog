@@ -14,7 +14,7 @@ Dec 15, 2011 - The City of Chicago put out a <a href='/docs/Spec101998.pdf'>Requ
 The RFP's objectives are for an outside contractor to build a system that will
 
 <ol>
-	<li>enable lobbyists registered with the City to file, on line, all retired registration documents and activity reports.</li>
+	<li>enable lobbyists registered with the City to file, on line, all required registration documents and activity reports.</li>
 	<li>enable the Department to review and approve these filings as quickly as possible and communicate with lobbyists who must and have not completed their filing requirements.</li>
 	<li>make data compiled from all lobbyists' filings publicly available on line in various searchable, queriable reporting formats.</li>
 </ol>

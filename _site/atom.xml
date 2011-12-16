@@ -4,7 +4,7 @@
   <title>blog.chicagolobbyists.org</title>
   <link href="http://blog.chicagolobbyists.org/"/>
   <link type="application/atom+xml" rel="self" href="http://blog.chicagolobbyists.org/atom.xml"/>
-  <updated>2011-12-15T17:00:35-06:00</updated>
+  <updated>2011-12-16T09:29:57-06:00</updated>
   <id>http://blog.chicagolobbyists.org/</id>
   <author>
     <name>Chicago Lobbyists Blog</name>
@@ -27,7 +27,7 @@
 &lt;p&gt;&lt;a href='/docs/Spec101998.pdf'&gt;&lt;img style=&quot;border: 1px solid #ccc; &quot; src='/images/RFP-cover.png' alt='City of Chicago Lobbyist Disclosure System RFP' title='City of Chicago Lobbyist Disclosure System RFP' /&gt;&lt;/a&gt; &lt;/p&gt;
 &lt;p&gt;The RFP&amp;#8217;s objectives are for an outside contractor to build a system that will&lt;/p&gt;
 &lt;ol&gt;
-	&lt;li&gt;enable lobbyists registered with the City to file, on line, all retired registration documents and activity reports.&lt;/li&gt;
+	&lt;li&gt;enable lobbyists registered with the City to file, on line, all required registration documents and activity reports.&lt;/li&gt;
 	&lt;li&gt;enable the Department to review and approve these filings as quickly as possible and communicate with lobbyists who must and have not completed their filing requirements.&lt;/li&gt;
 	&lt;li&gt;make data compiled from all lobbyists&amp;#8217; filings publicly available on line in various searchable, queriable reporting formats.&lt;/li&gt;
 &lt;/ol&gt;
