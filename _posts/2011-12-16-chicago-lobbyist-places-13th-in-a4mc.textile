@@ -1,0 +1,14 @@
+---
+layout: post
+title: Chicago Lobbyists Places 13th in A4MC Grand Challenge Contest
+author: Derek 
+---
+by Derek Eder
+
+Dec 16, 2011 - The winners of the <a href='http://appsformetrochicago.com/'>Apps for Metro Chicago</a> Grand Challenge were announced today at Excelerate Labs in Chicago. Chicago Lobbyists placed 13th out of 20.
+
+<p><img style="border: 1px solid #ccc; " src='/images/a4mc-cert.jpg' alt='Chicago Lobbyists 13th Place Certificate' title='Chicago Lobbyists 13th Place Certificate' /></p>
+
+Curiously, our award was given to us unsigned by MCIC President Virginia Carlson. <a href='http://mcic3.mcfol.org/'>MCIC</a>, or Metro Chicago Information Center, is the organization that runs Apps for Metro Chicago.
+
+The overall winner was <a href='http://spothero.com/'>SpotHero</a>, a website that connects parking demand to parking supply by allowing parking spot owners to earn income by renting their spot when it's unoccupied. Congrats to them and all the other winners!
