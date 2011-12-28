@@ -1,0 +1,22 @@
+---
+layout: post
+title: In GovFresh competition, Chicago Lobbyists wins a first prize and Chicago places second as City of the Year
+author: Paul 
+---
+by Paul Baker
+
+<p class='r'><a href='http://govfresh.com/2011/12/2011-govfresh-awards-winners/'><img src='/images/2011-govfresh-awards.png' alt='2011 govfresh awards' title='2011 govfresh awards' /></a></p>
+
+Dec 28, 2011 - On December 20, <a href='http://govfresh.com/'>GovFresh</a> announced the <a href='http://govfresh.com/2011/12/2011-govfresh-awards-winners/'>winners of the 2011 GovFresh Awards</a>. The website aims to encourage government-citizen collaboration in order to "build a more engaged democracy."
+
+<div class='clear'></div>
+
+Chicago Lobbyists placed first as "Best use of open source" and the city of Chicago placed second to New York City as <a href='http://govfresh.com/2011/12/2011-govfresh-city-of-the-year-new-york-city/'>City of the Year</a>. New York was cited for its Engage NYC initiative, aimed at getting designers and developers civically active, and NYC Open Data, a repository of more than 850 city datasets, including public school data.
+
+We were happy to see tweets from <a href='https://twitter.com/#!/ChicagosMayor/status/149194960275636224'>Mayor Emmanuel's office</a>, city <a href='https://twitter.com/#!/ChicagoCDO/status/149197667820503040'>Chicago CDO Brett Goldstein</a>, <a href='https://twitter.com/#!/PoliticalEditor/status/149191489426169856'>Mike Flannery</a> at Fox News and OpenGov activist <a href=''>Steve Vance</a>.
+
+<p><a href='https://twitter.com/#!/ChicagosMayor/status/149194960275636224'><img style="border: 1px solid #ccc; " src='/images/mayor-gf2011-tweet.png' alt='Tweet from the Mayors Office' title='Tweet from the Mayors Office' /></a></p>
+
+We were also happy to see Chicago Lobbyists being used by journalists for online research, as in this New York Times <a href='http://campaignstops.blogs.nytimes.com/2011/12/18/the-trouble-with-that-revolving-door/'>article on lobbying</a>. See the link to lobbying firm <a href='http://chicagolobbyists.org/firms/dla-piper-rudnick-gray-cary'>DLA Piper</a>.
+
+GovFresh also highlights five Cook County open data visualizations based on the county's new <a href='http://govfresh.com/2011/12/five-open-data-visualizations-from-cook-county-il/'>Socrata open data catalog</a>, including Public facilities and services, top sheriff's violations, outpatient registrations, mortgages, and elected officials.

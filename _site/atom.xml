@@ -4,13 +4,33 @@
   <title>blog.chicagolobbyists.org</title>
   <link href="http://blog.chicagolobbyists.org/"/>
   <link type="application/atom+xml" rel="self" href="http://blog.chicagolobbyists.org/atom.xml"/>
-  <updated>2011-12-18T10:32:34-06:00</updated>
+  <updated>2011-12-28T11:11:01-06:00</updated>
   <id>http://blog.chicagolobbyists.org/</id>
   <author>
     <name>Chicago Lobbyists Blog</name>
     <email>chi.lobbyists@gmail.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://blog.chicagolobbyists.org/2011/12/28/govfresh-awards</id>
+    <link type="text/html" rel="alternate" href="http://blog.chicagolobbyists.org/2011/12/28/govfresh-awards/"/>
+    <title>In GovFresh competition, Chicago Lobbyists wins a first prize and Chicago places second as City of the Year</title>
+    <updated>2011-12-28T00:00:00-06:00</updated>
+    <author>
+      <name>Chicago Lobbyists</name>
+      <uri>http://blog.chicagolobbyists.org/</uri>
+    </author>
+    <content type="html">&lt;p&gt;by Paul Baker&lt;/p&gt;
+&lt;p class='r'&gt;&lt;a href='http://govfresh.com/2011/12/2011-govfresh-awards-winners/'&gt;&lt;img src='/images/2011-govfresh-awards.png' alt='2011 govfresh awards' title='2011 govfresh awards' /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Dec 28, 2011 &amp;#8211; On December 20, &lt;a href='http://govfresh.com/'&gt;GovFresh&lt;/a&gt; announced the &lt;a href='http://govfresh.com/2011/12/2011-govfresh-awards-winners/'&gt;winners of the 2011 GovFresh Awards&lt;/a&gt;. The website aims to encourage government-citizen collaboration in order to &amp;#8220;build a more engaged democracy.&amp;#8221;&lt;/p&gt;
+&lt;div class='clear'&gt;&lt;/div&gt;
+&lt;p&gt;Chicago Lobbyists placed first as &amp;#8220;Best use of open source&amp;#8221; and the city of Chicago placed second to New York City as &lt;a href='http://govfresh.com/2011/12/2011-govfresh-city-of-the-year-new-york-city/'&gt;City of the Year&lt;/a&gt;. New York was cited for its Engage &lt;span class=&quot;caps&quot;&gt;NYC&lt;/span&gt; initiative, aimed at getting designers and developers civically active, and &lt;span class=&quot;caps&quot;&gt;NYC&lt;/span&gt; Open Data, a repository of more than 850 city datasets, including public school data.&lt;/p&gt;
+&lt;p&gt;We were happy to see tweets from &lt;a href='https://twitter.com/#!/ChicagosMayor/status/149194960275636224'&gt;Mayor Emmanuel&amp;#8217;s office&lt;/a&gt;, city &lt;a href='https://twitter.com/#!/ChicagoCDO/status/149197667820503040'&gt;Chicago &lt;span class=&quot;caps&quot;&gt;CDO&lt;/span&gt; Brett Goldstein&lt;/a&gt;, &lt;a href='https://twitter.com/#!/PoliticalEditor/status/149191489426169856'&gt;Mike Flannery&lt;/a&gt; at Fox News and OpenGov activist &lt;a href=''&gt;Steve Vance&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://twitter.com/#!/ChicagosMayor/status/149194960275636224'&gt;&lt;img style=&quot;border: 1px solid #ccc; &quot; src='/images/mayor-gf2011-tweet.png' alt='Tweet from the Mayors Office' title='Tweet from the Mayors Office' /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We were also happy to see Chicago Lobbyists being used by journalists for online research, as in this New York Times &lt;a href='http://campaignstops.blogs.nytimes.com/2011/12/18/the-trouble-with-that-revolving-door/'&gt;article on lobbying&lt;/a&gt;. See the link to lobbying firm &lt;a href='http://chicagolobbyists.org/firms/dla-piper-rudnick-gray-cary'&gt;&lt;span class=&quot;caps&quot;&gt;DLA&lt;/span&gt; Piper&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;GovFresh also highlights five Cook County open data visualizations based on the county&amp;#8217;s new &lt;a href='http://govfresh.com/2011/12/five-open-data-visualizations-from-cook-county-il/'&gt;Socrata open data catalog&lt;/a&gt;, including Public facilities and services, top sheriff&amp;#8217;s violations, outpatient registrations, mortgages, and elected officials.&lt;/p&gt;</content>
+  </entry>
   
   <entry>
     <id>http://blog.chicagolobbyists.org/2011/12/16/chicago-lobbyist-places-13th-in-a4mc</id>
