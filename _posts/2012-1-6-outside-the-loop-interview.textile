@@ -1,0 +1,25 @@
+---
+layout: post
+title: Chicago Lobbyists team interview on Outside the Loop Radio
+author: Derek 
+---
+by Derek Eder
+
+<p class='r'><a href='http://www.outsidetheloopradio.com/2012/01/05/otl-episode-276-chicagolobbyists-org-discussing-the-local-comedy-scene-chicago-pipeline-e-newsletter/'><img src='/images/OTLradio-2.jpeg' alt='Outside the Loop Radio' title='Outside the Loop Radio' /></a></p>
+
+Jan 5, 2012 - Earlier is week the Chicago Lobbyists team did an interview with Mike Stephen from <a href='http://www.outsidetheloopradio.com/2012/01/05/otl-episode-276-chicagolobbyists-org-discussing-the-local-comedy-scene-chicago-pipeline-e-newsletter/'>Outside the Loop Radio</a> on <a href='http://wluw.org/'>88.7 WLUW</a>. 
+
+<a href='/docs/chi-lobbyists-otl-interview.mp3'>Download the full interview</a> or take a listen here:
+
+<audio controls="controls">
+  <source src="/docs/chi-lobbyists-otl-interview.mp3" type="audio/mpeg" />
+  Your browser does not support the audio element.
+</audio>
+<br />
+Doing the interview were Paul Baker, Derek Eder and Chad Pry. We discussed the origins of the project, the value it adds to Chicago citizens, surprises we found while going through the data, and our plans for the future.
+
+Make sure to check out <a href='http://www.outsidetheloopradio.com'>Outside the Loop Radio</a> with Mike Stephen every Thursday at 10am on 88.7 WLUW. Thanks again to Mike for the opportunity to share our work!
+
+<p><a href='http://wluw.org/'><img src='/images/wluw88.gif' alt='88.7 WLUW' title='88.7 WLUW' /></a></p>
+
+<div class='clear'></div>

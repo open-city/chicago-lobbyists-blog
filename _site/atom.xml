@@ -4,13 +4,37 @@
   <title>blog.chicagolobbyists.org</title>
   <link href="http://blog.chicagolobbyists.org/"/>
   <link type="application/atom+xml" rel="self" href="http://blog.chicagolobbyists.org/atom.xml"/>
-  <updated>2011-12-28T11:11:01-06:00</updated>
+  <updated>2012-01-06T12:21:45-06:00</updated>
   <id>http://blog.chicagolobbyists.org/</id>
   <author>
     <name>Chicago Lobbyists Blog</name>
     <email>chi.lobbyists@gmail.com</email>
   </author>
 
+  
+  <entry>
+    <id>http://blog.chicagolobbyists.org/2012/01/06/outside-the-loop-interview</id>
+    <link type="text/html" rel="alternate" href="http://blog.chicagolobbyists.org/2012/01/06/outside-the-loop-interview/"/>
+    <title>Chicago Lobbyists team interview on Outside the Loop Radio</title>
+    <updated>2012-01-06T00:00:00-06:00</updated>
+    <author>
+      <name>Chicago Lobbyists</name>
+      <uri>http://blog.chicagolobbyists.org/</uri>
+    </author>
+    <content type="html">&lt;p&gt;by Derek Eder&lt;/p&gt;
+&lt;p class='r'&gt;&lt;a href='http://www.outsidetheloopradio.com/2012/01/05/otl-episode-276-chicagolobbyists-org-discussing-the-local-comedy-scene-chicago-pipeline-e-newsletter/'&gt;&lt;img src='/images/OTLradio-2.jpeg' alt='Outside the Loop Radio' title='Outside the Loop Radio' /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Jan 5, 2012 &amp;#8211; Earlier is week the Chicago Lobbyists team did an interview with Mike Stephen from &lt;a href='http://www.outsidetheloopradio.com/2012/01/05/otl-episode-276-chicagolobbyists-org-discussing-the-local-comedy-scene-chicago-pipeline-e-newsletter/'&gt;Outside the Loop Radio&lt;/a&gt; on &lt;a href='http://wluw.org/'&gt;88.7 &lt;span class=&quot;caps&quot;&gt;WLUW&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href='/docs/chi-lobbyists-otl-interview.mp3'&gt;Download the full interview&lt;/a&gt; or take a listen here:&lt;/p&gt;
+&lt;audio controls=&quot;controls&quot;&gt;
+&lt;source src=&quot;/docs/chi-lobbyists-otl-interview.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+Your browser does not support the audio element.
+&lt;/audio&gt;
+&lt;p&gt;&lt;br /&gt;
+Doing the interview were Paul Baker, Derek Eder and Chad Pry. We discussed the origins of the project, the value it adds to Chicago citizens, surprises we found while going through the data, and our plans for the future.&lt;/p&gt;
+&lt;p&gt;Make sure to check out &lt;a href='http://www.outsidetheloopradio.com'&gt;Outside the Loop Radio&lt;/a&gt; with Mike Stephen every Thursday at 10am on 88.7 &lt;span class=&quot;caps&quot;&gt;WLUW&lt;/span&gt;. Thanks again to Mike for the opportunity to share our work!&lt;/p&gt;
+&lt;p&gt;&lt;a href='http://wluw.org/'&gt;&lt;img src='/images/wluw88.gif' alt='88.7 WLUW' title='88.7 WLUW' /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;div class='clear'&gt;&lt;/div&gt;</content>
+  </entry>
   
   <entry>
     <id>http://blog.chicagolobbyists.org/2011/12/28/govfresh-awards</id>
