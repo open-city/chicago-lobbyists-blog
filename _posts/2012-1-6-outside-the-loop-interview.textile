@@ -21,5 +21,3 @@ Doing the interview were Paul Baker, Derek Eder and Chad Pry. We discussed the o
 Make sure to check out <a href='http://www.outsidetheloopradio.com'>Outside the Loop Radio</a> with Mike Stephen every Thursday at 10am on 88.7 WLUW. Thanks again to Mike for the opportunity to share our work!
 
 <p><a href='http://wluw.org/'><img src='/images/wluw88.gif' alt='88.7 WLUW' title='88.7 WLUW' /></a></p>
-
-<div class='clear'></div>
