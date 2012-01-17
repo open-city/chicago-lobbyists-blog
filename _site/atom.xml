@@ -4,7 +4,7 @@
   <title>blog.chicagolobbyists.org</title>
   <link href="http://blog.chicagolobbyists.org/"/>
   <link type="application/atom+xml" rel="self" href="http://blog.chicagolobbyists.org/atom.xml"/>
-  <updated>2012-01-12T16:49:23-06:00</updated>
+  <updated>2012-01-17T16:47:20-06:00</updated>
   <id>http://blog.chicagolobbyists.org/</id>
   <author>
     <name>Chicago Lobbyists Blog</name>
@@ -13,28 +13,27 @@
 
   
   <entry>
-    <id>http://blog.chicagolobbyists.org/2012/01/12/crowe-horath-selected</id>
-    <link type="text/html" rel="alternate" href="http://blog.chicagolobbyists.org/2012/01/12/crowe-horath-selected/"/>
-    <title>Crowe Horath selected by Chicago to build Lobbyist Disclosure System</title>
+    <id>http://blog.chicagolobbyists.org/2012/01/12/chciago-aint-ready-for-procurement-reform</id>
+    <link type="text/html" rel="alternate" href="http://blog.chicagolobbyists.org/2012/01/12/chciago-aint-ready-for-procurement-reform/"/>
+    <title>Chicago ain’t ready for procurement reform. Despite changes, the city continues to shut out tech innovators</title>
     <updated>2012-01-12T00:00:00-06:00</updated>
     <author>
       <name>Chicago Lobbyists</name>
       <uri>http://blog.chicagolobbyists.org/</uri>
     </author>
     <content type="html">&lt;p class='r'&gt;&lt;a href='/docs/RFP Declination Letter Chicago Lobbyist.pdf'&gt;&lt;img src='/images/Proposal_Declined.png' alt='Proposal Declined' title='Proposal Declined' /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;by Derek Eder&lt;/p&gt;
-&lt;p&gt;Jan 12, 2012 &amp;#8211; Today, we received the following &lt;a href='/docs/RFP Declination Letter Chicago Lobbyist.pdf'&gt;letter of declination&lt;/a&gt; from the City of Chicago regarding our &lt;a href='/2011/12/15/our-response-to-chicagos-lobbyist-rfp/'&gt;bid proposal to build an online lobbyist registration system&lt;/a&gt;. In the letter, &lt;a href='http://www.crowehorwath.com/'&gt;Crowe Horath &lt;span class=&quot;caps&quot;&gt;LLP&lt;/span&gt;&lt;/a&gt; was stated as the company that the City awarded the contract to.&lt;/p&gt;
-&lt;p&gt;The reason for our rejection is most definitely due to us not fulfilling the &lt;a href='/docs/Spec101998.pdf'&gt;&lt;span class=&quot;caps&quot;&gt;RFP&lt;/span&gt; requirements&lt;/a&gt; set out by the &lt;a href='http://www.cityofchicago.org/city/en/depts/dps.html'&gt;Department of Procurement Services&lt;/a&gt;. As we stated in our blog post, a group of 5 volunteers is not what the City&amp;#8217;s &lt;span class=&quot;caps&quot;&gt;RFP&lt;/span&gt; is set up to select.&lt;/p&gt;
-&lt;p&gt;What is surprising, however, is the firm that the city did choose. Crowe Horath is the same firm that built the &lt;a href='http://cityofchicago.org'&gt;City of Chicago&amp;#8217;s current website&lt;/a&gt;. Here is some interesting background information on that:&lt;/p&gt;
-&lt;div class='clear'&gt;&lt;/div&gt;
-&lt;ul&gt;
-	&lt;li&gt;In May 2010 the city &lt;a href='http://newsblogs.chicagotribune.com/clout_st/2010/03/city-of-chicago-unveils-redesigned-web-site.html'&gt;spent $1.8 million&lt;/a&gt; on the first website redesign in 9 years&lt;/li&gt;
-	&lt;li&gt;It was built by &lt;a href='http://www.crowehorwath.com/ContentDetails.aspx?id=1148'&gt;Crowe Horwath&lt;/a&gt;, an accounting &amp;amp; consulting firm based Oak Brook, IL&lt;/li&gt;
-	&lt;li&gt;The design was subcontracted out to &lt;a href='http://www.delphiaconsulting.com/narrative/web%20design%20portfolio'&gt;Delphia Consulting&lt;/a&gt;, a design and usability based in Columbus, OH&lt;/li&gt;
-	&lt;li&gt;The same two companies also built the &lt;a href='http://www.explorechicago.org/'&gt;Explore Chicago website&lt;/a&gt; and &lt;a href='http://www.crowehorwath.com/ContentDetails.aspx?id=1321'&gt;applied the same design&lt;/a&gt; to City of Chicago website&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;At an &lt;a href='http://www.meetup.com/OpenGovChicago/events/38655692/'&gt;OpenGov Chicago meet up&lt;/a&gt; in November (whom I am an event organizer for), the group reviewed and &lt;a href='https://groups.google.com/forum/embed/?place=forum/OpenGovChicago#!topic/opengovchicago/Zr284xOnARU'&gt;critiqued the shortcomings of the City&amp;#8217;s website and gave feedback on ways to improve it&lt;/a&gt;. The general consensus of the group is that the City&amp;#8217;s website has many usability problems, so much in fact, that the city is looking to redesign it again after being in use for less than two years.&lt;/p&gt;
-&lt;p&gt;The question now is, with Mayor Emanuel touting innovation and change, why is it still business as usual when it comes awarding the projects that really matter?&lt;/p&gt;</content>
+&lt;p&gt;Jan 12, 2012 – We recently received a &lt;a href='/docs/RFP Declination Letter Chicago Lobbyist.pdf'&gt;rejection letter&lt;/a&gt; from the City of Chicago regarding our &lt;a href='/2011/12/15/our-response-to-chicagos-lobbyist-rfp/'&gt;bid&lt;/a&gt; to build them an online lobbyist registration app. &lt;a href='http://www.crowehorwath.com/'&gt;Crowe Horath &lt;span class=&quot;caps&quot;&gt;LLP&lt;/span&gt;&lt;/a&gt;, an accounting and consulting firm based in Oak Brook, lllinois, won the bid instead.&lt;/p&gt;
+&lt;p&gt;We were almost certainly rejected because we did not fulfill the &lt;a href='/docs/Spec101998.pdf'&gt;application requirements&lt;/a&gt; set out by the &lt;a href=&quot;http://www.cityofchicago.org/city/en/depts/dps.html&quot;&gt;Department of Procurement Services&lt;/a&gt;. We never intended to. Despite being very competent technologists and experts on lobbying data, we simply couldn’t meet them: The city’s requirements are not crafted with tech startups in mind.&lt;/p&gt;
+&lt;p&gt;Despite Mayor Emanuel’s pledge to &lt;a href=&quot;http://www.cityofchicago.org/content/dam/city/depts/mayor/supp_info/chicago_2011_transition_report.pdf&quot;&gt;promote entrepreneurship&lt;/a&gt;, his moves to &lt;a href=&quot;http://www.cityofchicago.org/city/en/depts/mayor/press_room/press_releases/2011/may_2011/Mayor_elect_Emanuel_Names_Chicagos_Technology_Leadership_Team.html&quot;&gt;modernize the city’s technology&lt;/a&gt;, and his promise that last year’s &lt;a href=&quot;http://blogs.wttw.com/moreonthestory/2011/07/21/mayor-emanuel-announces-reforms-in-city-contracting/&quot;&gt;city contracting reforms&lt;/a&gt; would “ensure competitive, accountable and open bidding,” high barriers to entry that protect entrenched incumbents and shut out innovative startups are still very much in place.&lt;/p&gt;
+&lt;p&gt;“In private industry, many organizations have adapted their procurement process to suit modern website development,” says Paul Baker, the co-founder and president of Webitects, a web design firm. “The city still treats it like you’re pouring 60,000 tons of concrete, like you’re building a bridge.”&lt;/p&gt;
+&lt;p&gt;Smart organizations judge you based on your track record and the quality of your (proposed) solutions to their problems. The city, on the other hand, focuses on requirements: of the 152-page &lt;a href='/docs/Spec101998.pdf'&gt;request for proposal&lt;/a&gt; (&lt;span class=&quot;caps&quot;&gt;RFP&lt;/span&gt;) the city issued for the lobbyists app, only 10 pages touch on actual applications specs (p. 87 &amp;#8211; 97.) The rest is largely forms and legalese.&lt;/p&gt;
+&lt;p&gt;Why? Because the city is more concerned with minimizing the risk of project failure than with seeking out ideas and ability. Though the intent is no doubt to protect taxpayers, the results are perverse: innovators are shut out, city IT is stuck in the stone age, city workers and citizens lose.&lt;/p&gt;
+&lt;p&gt;Consider the firm the city chose to build the lobbyist system: Crowe Horath is the same company that built the &lt;a href=&quot;http://www.cityofchicago.org/city/en.html&quot;&gt;City of Chicago’s current website&lt;/a&gt;. The city paid them &lt;a href=&quot;http://newsblogs.chicagotribune.com/clout_st/2010/03/city-of-chicago-unveils-redesigned-web-site.html&quot;&gt;$1.8 million&lt;/a&gt; in 2010 to carry out the city’s first website redesign in 9 years. This company also built the &lt;a href=&quot;http://www.explorechicago.org/city/en.html&quot;&gt;Explore Chicago&lt;/a&gt; tourism website, and &lt;a href=&quot;http://www.crowehorwath.com/ContentDetails.aspx?id=1321&quot;&gt;applied the same design&lt;/a&gt; to the City of Chicago site.&lt;/p&gt;
+&lt;p&gt;At an &lt;a href='http://www.meetup.com/OpenGovChicago/events/38655692/'&gt;OpenGov Chicago meet up&lt;/a&gt; in November (whom I am an event organizer for), the group reviewed and &lt;a href='https://groups.google.com/forum/embed/?place=forum/OpenGovChicago#!topic/opengovchicago/Zr284xOnARU'&gt;critiqued the shortcomings of the City’s website and gave feedback on ways to improve it&lt;/a&gt;. The group’s general consensus was that the site has many usability problems. So many, in fact, that the city is now looking to redesign it again after being in use for less than two years.&lt;/p&gt;
+&lt;p&gt;The question now is, with Mayor Emanuel touting innovation and change, why is it still business as usual when it comes doling out taxpayer dollars for the projects that really matter?&lt;/p&gt;
+&lt;p&gt;We believe technology can help transform government at the core. But Government 2.0 will never become a reality without real procurement reform to level the playing field for innovative newcomers. In other words, &lt;a href=&quot;http://www.informationdiet.com/blog/read/procurement-is-americas-big-problem&quot;&gt;procurement is the problem&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;And we want to be part of the solution. We’re announcing the creation of a nonprofit &lt;a href=&quot;http://radar.oreilly.com/2011/12/2011-gov2-year-in-review.html#civic-startups&quot;&gt;civic startup&lt;/a&gt;: an open gov, open-source development shop that will not just build apps on open data, but also compete to build re-usable software that transforms how government does business.&lt;/p&gt;
+&lt;p&gt;More on this to come soon.&lt;/p&gt;</content>
   </entry>
   
   <entry>
