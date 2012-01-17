@@ -3,9 +3,9 @@ layout: post
 title: Chicago ain’t ready for procurement reform. Despite changes, the city continues to shut out tech innovators
 author: Derek 
 ---
-<p class='r'><a href='/docs/RFP-Declination-Letter Chicago-Lobbyist.pdf'><img src='/images/Proposal_Declined.png' alt='Proposal Declined' title='Proposal Declined' /></a></p>
+<p class='r'><a href='/docs/RFP-Declination-Letter-Chicago-Lobbyist.pdf'><img src='/images/Proposal_Declined.png' alt='Proposal Declined' title='Proposal Declined' /></a></p>
 
-Jan 12, 2012 – We recently received a <a href='/docs/RFP-Declination-Letter Chicago-Lobbyist.pdf'>rejection letter</a> from the City of Chicago regarding our <a href='/2011/12/15/our-response-to-chicagos-lobbyist-rfp/'>bid</a> to build them an online lobbyist registration app. <a href='http://www.crowehorwath.com/'>Crowe Horath LLP</a>, an accounting and consulting firm based in Oak Brook, lllinois, won the bid instead. 
+Jan 12, 2012 – We recently received a <a href='/docs/RFP-Declination-Letter-Chicago-Lobbyist.pdf'>rejection letter</a> from the City of Chicago regarding our <a href='/2011/12/15/our-response-to-chicagos-lobbyist-rfp/'>bid</a> to build them an online lobbyist registration app. <a href='http://www.crowehorwath.com/'>Crowe Horath LLP</a>, an accounting and consulting firm based in Oak Brook, lllinois, won the bid instead. 
 
 We were almost certainly rejected because we did not fulfill the <a href='/docs/Spec101998.pdf'>application requirements</a> set out by the <a href="http://www.cityofchicago.org/city/en/depts/dps.html">Department of Procurement Services</a>. We never intended to. Despite being very competent technologists and experts on lobbying data, we simply couldn’t meet them: The city’s requirements are not crafted with tech startups in mind.
 
