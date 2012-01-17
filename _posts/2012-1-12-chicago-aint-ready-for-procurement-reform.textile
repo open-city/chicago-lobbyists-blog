@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chicago ain’t ready for procurement reform. Despite changes, the city continues to shut out tech innovators
+title: Chicago ain’t ready for procurement reform - Despite changes, the city continues to shut out tech innovators
 author: Derek 
 ---
 <p class='r'><a href='/docs/RFPdeclined.pdf'><img src='/images/Proposal_Declined.png' alt='Proposal Declined' title='Proposal Declined' /></a></p>
