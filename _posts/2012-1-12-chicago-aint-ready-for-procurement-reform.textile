@@ -5,7 +5,7 @@ author: Derek
 ---
 <p class='r'><a href='/docs/RFPdeclined.pdf'><img src='/images/Proposal_Declined.png' alt='Proposal Declined' title='Proposal Declined' /></a></p>
 
-Jan 12, 2012 – We recently received a <a href='/docs/RFPdeclined.pdf'>rejection letter</a> from the City of Chicago regarding our <a href='/2011/12/15/our-response-to-chicagos-lobbyist-rfp/'>bid</a> to build them an online lobbyist registration app. <a href='http://www.crowehorwath.com/'>Crowe Horath LLP</a>, an accounting and consulting firm based in Oak Brook, lllinois, won the bid instead. 
+Jan 12, 2012 – We recently received a <a href='/docs/RFPdeclined.pdf'>rejection letter</a> from the City of Chicago regarding our <a href='/2011/12/15/our-response-to-chicagos-lobbyist-rfp/'>bid</a> to build them an online lobbyist registration app. <a href='http://www.crowehorwath.com/'>Crowe Horwath LLP</a>, an accounting and consulting firm based in Oak Brook, lllinois, won the bid instead. 
 
 We were almost certainly rejected because we did not fulfill the <a href='/docs/Spec101998.pdf'>application requirements</a> set out by the <a href="http://www.cityofchicago.org/city/en/depts/dps.html">Department of Procurement Services</a>. We never intended to. Despite being very competent technologists and experts on lobbying data, we simply couldn’t meet them: The city’s requirements are not crafted with tech startups in mind.
 
@@ -19,7 +19,7 @@ Why? Because the city is more concerned with minimizing the risk of project fail
 
 Consider the firm the city chose to build the lobbyist system: Crowe Horath is the same company that built the <a href="http://www.cityofchicago.org/city/en.html">City of Chicago’s current website</a>. The city paid them <a href="http://newsblogs.chicagotribune.com/clout_st/2010/03/city-of-chicago-unveils-redesigned-web-site.html">$1.8 million</a> in 2010 to carry out the city’s first website redesign in 9 years. This company also built the <a href="http://www.explorechicago.org/city/en.html">Explore Chicago</a> tourism website, and <a href="http://www.crowehorwath.com/ContentDetails.aspx?id=1321">applied the same design</a> to the City of Chicago site.
 
-At an <a href='http://www.meetup.com/OpenGovChicago/events/38655692/'>OpenGov Chicago meet up</a> in November (whom I am an event organizer for), the group <a href='https://groups.google.com/forum/embed/?place=forum/OpenGovChicago#!topic/opengovchicago/Zr284xOnARU'>reviewed and critiqued the shortcomings of the City’s website and gave feedback on ways to improve it</a>. The group’s general consensus was that the site has many usability problems. So many, in fact, that the city is now looking to redesign it again after being in use for less than two years.
+At an <a href='http://www.meetup.com/OpenGovChicago/events/38655692/'>OpenGov Chicago meet up</a> in November (for which I am an event organizer), the group <a href='https://groups.google.com/forum/embed/?place=forum/OpenGovChicago#!topic/opengovchicago/Zr284xOnARU'>reviewed and critiqued the shortcomings of the City’s website and gave feedback on ways to improve it</a>. The group’s general consensus was that the site has many usability problems. So many, in fact, that the city is now looking to redesign it again after being in use for less than two years.
 
 The question now is, with Mayor Emanuel touting innovation and change, why is it still business as usual when it comes doling out taxpayer dollars for the projects that really matter?
 
