@@ -16,4 +16,4 @@ Each of the main contributors spent ~5 hours the week before the hack-a-thon cle
 <h3>What is in the future?</h3>
 Add more meaningful data to inform you about lobbyists, clients and agencies. We have started a relationship working with Brett Goldstein (Chicago's Chief Data Officer) and the Ethics department to fill in the gaps. Once we have Chicago down, we will generalize our model for use with other cities to visualize their lobbyist data. 
 
-All the code is open source and can be <a href='https://github.com/chicago-lobbyists/web'>checked out on Github</a>. 
+All the code is open source and can be <a href='https://github.com/open-city/chicago-lobbyists-web'>checked out on Github</a>. 

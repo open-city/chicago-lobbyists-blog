@@ -4,7 +4,7 @@
   <title>blog.chicagolobbyists.org</title>
   <link href="http://blog.chicagolobbyists.org/"/>
   <link type="application/atom+xml" rel="self" href="http://blog.chicagolobbyists.org/atom.xml"/>
-  <updated>2012-01-19T13:19:53-06:00</updated>
+  <updated>2012-01-21T15:48:23-06:00</updated>
   <id>http://blog.chicagolobbyists.org/</id>
   <author>
     <name>Chicago Lobbyists Blog</name>
@@ -296,7 +296,7 @@ That’s why we built &lt;a href='http://chicagoLobbyists.org'&gt;ChicagoLobbyis
 &lt;p&gt;Each of the main contributors spent ~5 hours the week before the hack-a-thon cleaning up data with &lt;a href='http://code.google.com/p/google-refine/'&gt;Google Refine&lt;/a&gt;, eyeballing obvious relationships in the data, doing some base &lt;span class=&quot;caps&quot;&gt;HTML&lt;/span&gt; layouts and setting up a host for the application (Ruby/Sinatra). At the Google Open Data Hack-a-thon 6 people worked on the project: the 4 originators plus Ruthie and Chirag. By the end of the day we had a basic structure and database set up. The following weeks, we worked in our spare time and now have a minimum viable product.&lt;/p&gt;
 &lt;h3&gt;What is in the future?&lt;/h3&gt;
 &lt;p&gt;Add more meaningful data to inform you about lobbyists, clients and agencies. We have started a relationship working with Brett Goldstein (Chicago&amp;#8217;s Chief Data Officer) and the Ethics department to fill in the gaps. Once we have Chicago down, we will generalize our model for use with other cities to visualize their lobbyist data.&lt;/p&gt;
-&lt;p&gt;All the code is open source and can be &lt;a href='https://github.com/chicago-lobbyists/web'&gt;checked out on Github&lt;/a&gt;.&lt;/p&gt;</content>
+&lt;p&gt;All the code is open source and can be &lt;a href='https://github.com/open-city/chicago-lobbyists-web'&gt;checked out on Github&lt;/a&gt;.&lt;/p&gt;</content>
   </entry>
   
   <entry>
