@@ -1,0 +1,11 @@
+---
+layout: post
+title: Open City apps on WTTW's Chicago Tonight 
+author: Derek 
+---
+
+Jan 31, 2012 – Derek Eder and Chad Pry, the two lead developers on this site, got a chance to appear on WTTW's Chicago Tonight along side Chicago CTO John Tolva Tuesday night. In their panel discussion they discussed Chicago Lobbyists, <a href='http://lookatcook.com'>Look at Cook</a>, <a href='http://derekeder.com/clearstreets/'>ClearStreets</a>, the City's <a href='http://www.cityofchicago.org/content/city/en/depts/mayor/iframe/plow_tracker.html'>Plow Tracker</a> and open data in general.
+
+Watch the segment below:
+
+<iframe src="http://www.wttw.com/video/embed/iframeEmbedSource.html?feed=http://feed.theplatform.com/f/0HWnt/1jiUX6_ANOBi&mediaIDs=2191815569"  width="600" height="400"/> </iframe>

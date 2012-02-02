@@ -4,3 +4,4 @@ lsi:         false
 markdown:    rdiscount
 permalink:   pretty
 exclude:     .rvmrc, .gitignore, .git, ./test
+paginate: 5
