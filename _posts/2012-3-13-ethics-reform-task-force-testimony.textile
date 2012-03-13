@@ -55,10 +55,14 @@ Many other groups, individuals, and companies are working with public data in a 
 
 *III. Improving efficiency*
 In the public sphere, using data to improve efficiency of government services is rapidly gaining traction. Some examples of current or projected uses include:
-The City’s Plow Tracker and Open City’s ClearStreets in the example cited above helps citizens make informed decisions about how to move throughout the city during, or after, a snow storm.
-Analyzing GPS tracking of public vehicles could help plan more efficient routes, for example, to reduce cost of garbage collection.
-In public transportation, opening up CTA data has resulted in many useful train- and bus-tracking apps.
-Making it easier for city departments to coordinate activities such as tree trimming, pothole repair, sewer work, and street resurfacing.
+
+* The City’s Plow Tracker and Open City’s ClearStreets in the example cited above helps citizens make informed decisions about how to move throughout the city during, or after, a snow storm.
+
+* Analyzing GPS tracking of public vehicles could help plan more efficient routes, for example, to reduce cost of garbage collection.
+
+* In public transportation, opening up CTA data has resulted in many useful train- and bus-tracking apps.
+
+* Making it easier for city departments to coordinate activities such as tree trimming, pothole repair, sewer work, and street resurfacing.
 
 For the City of Chicago to continue leading in open data, it must continue to release this highly valuable data in accordance with the above stated Eight principles of Open Government, and must do everything it can to ensure that future administrations do so as well.
 
