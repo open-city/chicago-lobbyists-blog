@@ -21,6 +21,7 @@ Before this body, Open City would like to focus on the following:
 
 
 h3. The principals and benefits of open data 
+
 Open City subscribes to the _Eight principles of Open Government_ ("https://public.resource.org/8_principles.html":https://public.resource.org/8_principles.html) which include that data:
 # be as complete as possible 
 # is not changed in significant ways after collection 
