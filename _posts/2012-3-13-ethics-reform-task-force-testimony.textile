@@ -1,0 +1,89 @@
+---
+layout: post
+title: Open City testimony to the City of Chicago Ethics Reform Task Force
+author: Derek 
+---
+
+On March 12, 2012, Derek Eder, on behalf of "Open City":http://opencityapps.org, gave testimony at a public hearing to Mayor Rahm Emanuel's "Ethics Reform Task Force":https://webapps.cityofchicago.org/EthicsTaskForce/forums/list.page. The goal was to promote open data and open government, as well as to offer two specific recommendations that the City of Chicago:
+
+# pass an open government ordinance to ensure the continued release of open data. 
+# improve the reporting requirements for registered lobbyists by collecting more detailed, timely, and complete data.
+
+Below is the full transcript of the testimony:
+
+My name is Derek Eder and I am a co-founder of Open City ("opencityapps.org":http://opencityapps.org), a group of volunteer entrepreneurs who create “civic web apps” that aim to improve transparency, efficiency, and decision-making in Chicago, Cook County, and the State of Illinois. I’d like to thank Illinois Campaign for Political Reform for informing us of this task force and encouraging us to testify.
+
+For the last few years, many of us have been advocating for government bodies to open up their data. In Chicago and Cook County, this is happening at a good pace now, with new administrations that have put in place open data policies and appointed technical leadership that understand and support them. (City of Chicago data can be viewed and downloaded at "data.cityofchicago.org":http://data.cityofchicago.org. County data is at "datacatalog.cookcountyil.gov":http://datacatalog.cookcountyil.gov)
+
+Before this body, Open City would like to focus on the following:
+# Principals and benefits of open data policies
+# Suggestions for improving Chicago’s lobbyist data and reporting requirements
+
+
+h3. The principals and benefits of open data 
+Open City subscribes to the _Eight principles of Open Government_ ("https://public.resource.org/8_principles.html":https://public.resource.org/8_principles.html) which include that data:
+# be as complete as possible 
+# is not changed in significant ways after collection 
+# be made available in a timely manner
+# is available to the widest range of users for the widest range of purposes
+# be provided in machine readable, normalized formats
+# be offered to anyone without discrimination 
+# be non-proprietary (as in no entity has exclusive control) 
+# be license free (at no cost and with no restrictions for use)
+
+We support reasonable privacy-related changes such as the removal of social security and bank account numbers from court data or removing data from medical records that could allow insurance companies or employers, for instance, to identify individuals.
+
+The following are a few obvious, and not so obvious, ways in which open government data policies are useful. 
+
+
+*I. Improving transparency*
+The reason usually cited for opening up government data is to reduce graft and corruption. Lobbying data is a good example, for which we created ChicagoLobbyists.org. This web app displays, in easy to understand ways, all data related to lobbying that the City of Chicago has made available in accordance with the most recent lobbying ordinance. (A more detailed discussion of this ordinance and lobbying data is included at the end of this testimony.)
+
+*II. Harnessing the talent of civically-minded entrepreneurs*
+Independent groups such as Open City wish to contribute ideas and apps in order to inform citizens and improve the city and county in many ways. Having access to open government data makes this possible.
+
+Here are a few additional examples of what we have done with open data, along with a few ideas on how they could be improved if more data were to be released: 
+* *Vacant Building Finder* ("chicagobuildings.org":http://chicagobuildings.org) which plots vacant and abandoned buildings as reported through the city’s 311 system, based on data released by the city. We hope to expand this project to support the new city and county abandoned building ordinances by showing which properties are in foreclosure and which banks service them. This will require the Clerk of the Court of Cook County to make foreclosure filing data freely available.
+
+* *Clear Streets* ("clearstreets.org":http://clearstreets.org) uses locational positions of plows that the city uses for their Plow Tracker website (which shows where snow plows are at any given time) and shows which streets have been plowed and when. Currently, the data for plow locations is only available during an actual snow storm. Getting access to data from past storms would allow us to improve our accuracy and start looking into predictive models.
+
+* *Chicago Public School Tiers* ("cpstiers.opencityappls.org":http://cpstiers.opencityappls.org) is a tool that helps Chicago Public Schools (CPS) students and parents find what socio-economic tier they live in, which effects their chances of getting in to a selective school. The data for this was released in PDF documents, and our group had to manually extract the data and line it up with census tracts. Many other useful apps for students and parents could be created if CPS released more of it’s data and provided it in a machine readable format.
+
+Many other groups, individuals, and companies are working with public data in a wide variety of ways. Many of these can be viewed at "appsformetrochicago.com":http://appsformetrochicago.com.
+
+
+*III. Improving efficiency*
+In the public sphere, using data to improve efficiency of government services is rapidly gaining traction. Some examples of current or projected uses include:
+The City’s Plow Tracker and Open City’s ClearStreets in the example cited above helps citizens make informed decisions about how to move throughout the city during, or after, a snow storm.
+Analyzing GPS tracking of public vehicles could help plan more efficient routes, for example, to reduce cost of garbage collection.
+In public transportation, opening up CTA data has resulted in many useful train- and bus-tracking apps.
+Making it easier for city departments to coordinate activities such as tree trimming, pothole repair, sewer work, and street resurfacing.
+
+For the City of Chicago to continue leading in open data, it must continue to release this highly valuable data in accordance with the above stated Eight principles of Open Government, and must do everything it can to ensure that future administrations do so as well.
+
+Although the City is required to comply with the Freedom of Information Act for responding to requests for data, there is currently no ordinance in the books that requires the City to release data on the data portal (data.cityofchicago.org). This administration, or future ones could, at any point, cease releasing this data should it be politically expedient to do so. 
+
+It is our opinion that the City of Chicago should take steps in passing an open government ordinance, similar to the one passed today in New York City ("http://www.informationweek.com/news/government/policy/232602252":http://www.informationweek.com/news/government/policy/232602252) and by Cook County in September 2011 ("http://blog.cookcountygov.com/opencc/wp-content/uploads/2011/09/Open_Cook_County_9.21.11.pdf":http://blog.cookcountygov.com/opencc/wp-content/uploads/2011/09/Open_Cook_County_9.21.11.pdf).
+
+h3. Suggestions to improve Chicago’s lobbyist data and reporting requirements
+
+Open City has gained some expertise in this area, as we learned much about lobbying data while building ChicagoLobbyists.org and from discussions with the San Francisco Ethics Commission. We believe that San Francisco’s lobbying ordinance sets a great example for Chicago to follow and improve upon.
+
+* The San Francisco ordinance can be found at "http://www.sfethics.org/ethics/2009/12/lobbyist-ordinance-2010.html":http://www.sfethics.org/ethics/2009/12/lobbyist-ordinance-2010.html
+* The Chicago ordinance can be found at "http://www.cityofchicago.org/city/en/depts/ethics/supp_info/governmental_ethicsordinance.html#2-156-210":http://www.cityofchicago.org/city/en/depts/ethics/supp_info/governmental_ethicsordinance.html#2-156-210
+
+Although the recent ordinance passed in Chicago in July 2011 is a significant step in the right direction, we feel that lobbyist transparency can still be improved in several ways:
+
+* Require all interactions be reported in a timely manner. Currently, lobbyists in Chicago are required to report quarterly. In San Francisco, they are required to report monthly. Waiting up to three months for this data to be gathered impedes transparency. Weekly or daily reports would be ideal, so that lobbying efforts can be tied more easily to specific legislation or administrative decisions.
+
+* Require more detail about lobbying activities, including the name(s) of city officials lobbied, what was discussed, and when. Currently, entities lobbied are listed under their department name only (“Mayor’s Office,” “Dept of Transportation,” “Department of Police”, etc.). Issues discussed are often described with one to three words, such as “Procurement matters,” “PD”, “TIF”, or “Community Interface”. There is no date associated with any lobbying action, except for the year. City official names, detailed descriptions, and dates of interactions should be required.
+
+* Add a requirement that employees, officers, or directors of non-profits seeking to influence legislative or administrative actions related to their non-profit entity be required to report as any other lobbyist. We believe that anyone who lobbies as part of his or her paid employment should be defined as a lobbyist.
+
+Open City believes that cities should work together to adopt a common approach to specifying lobbyist filing and reporting requirements, so that very similar software can be used across all municipalities. This would save local governments time and money and promote a general attitude of openness. 
+
+To sum up, it is our recommendation that the City of Chicago 
+# pass an open government ordinance to ensure the continued release of open data. 
+# improve the reporting requirements for registered lobbyists by collecting more detailed, timely, and complete data.
+
+Thank you for hearing our testimony. 
