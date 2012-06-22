@@ -6,7 +6,7 @@ author: Derek
 
 Jan 31, 2012 – Derek Eder and Chad Pry, the two lead developers on this site, got a chance to appear on WTTW <a href='http://chicagotonight.wttw.com/'>Chicago Tonight</a> along side <a href='http://twitter.com/ChicagoCTO'>Chicago CTO</a> John Tolva Tuesday night. 
 
-In their panel discussion they talked about <a href='http://chicagolobbyists.org'>Chicago Lobbyists</a>, <a href='http://lookatcook.com'>Look at Cook</a>, <a href='http://derekeder.com/clearstreets/'>ClearStreets</a>, the City's <a href='http://www.cityofchicago.org/content/city/en/depts/mayor/iframe/plow_tracker.html'>Plow Tracker</a> and the open data movement in Chicago.
+In their panel discussion they talked about <a href='http://www.chicagolobbyists.org'>Chicago Lobbyists</a>, <a href='http://lookatcook.com'>Look at Cook</a>, <a href='http://derekeder.com/clearstreets/'>ClearStreets</a>, the City's <a href='http://www.cityofchicago.org/content/city/en/depts/mayor/iframe/plow_tracker.html'>Plow Tracker</a> and the open data movement in Chicago.
 
 Watch the segment below:
 

@@ -8,10 +8,10 @@ by Paul Baker
 Dec 1, 2011 - In almost all open data projects, providing raw data is not enough. And it’s not enough to be a good programmer or designer. To be useful, we need to be able to figure out what questions the data might reveal and which of these might be useful for the public to know. 
 
 <h3>The data</h3>
-<p class='r'><a href='http://data.cityofchicago.org/Ethics/Lobbyist-Data-2010-Lobbyist-Registry/2ft4-4uik'><img src='http://chicagolobbyists.org/images/city-data-portal.png' alt='Lobbyist Data - 2010 Lobbyist Registry' title='Lobbyist Data - 2010 Lobbyist Registry' /></a></p>
+<p class='r'><a href='http://data.cityofchicago.org/Ethics/Lobbyist-Data-2010-Lobbyist-Registry/2ft4-4uik'><img src='http://www.chicagolobbyists.org/images/city-data-portal.png' alt='Lobbyist Data - 2010 Lobbyist Registry' title='Lobbyist Data - 2010 Lobbyist Registry' /></a></p>
 
 In early July 2011, the City of Chicago released <a href='http://data.cityofchicago.org/browse?tags=lobbyists'>14 sets of lobbying-related data</a>, including lobbyists, lobbying agencies, gifts to city employees, expenditures, clients of lobbyists, etc. However, an ordinary human being could not make heads or tails of this without some sort of integration. 
-That’s why we built <a href='http://chicagoLobbyists.org'>ChicagoLobbyists.org</a>.
+That’s why we built <a href='http://www.chicagoLobbyists.org'>ChicagoLobbyists.org</a>.
 
 <div class='clear'></div>
 <h3>Chicago Lobbyists v1.0</h3>
@@ -27,7 +27,7 @@ After the July Google hackathon, at which we built and launched the site, we met
 	<li>Is there a way to determine how much a client paid to a lobbying firm or lobbyist?</li>
 	<li>Related to the question above, can we retrieve the purpose for a client payment?</li>
 	<li>Can we receive data before 2010? If so, what years are available?</li>
-	<li>Is there a way to determine which client requested an action in front of an agency? We only know which lobbyist requested an action—see example: <a href='http://chicagolobbyists.org/lobbyists/theodore-brunsvold'>Theodore Brunsvold</a></li>
+	<li>Is there a way to determine which client requested an action in front of an agency? We only know which lobbyist requested an action—see example: <a href='http://www.chicagolobbyists.org/lobbyists/theodore-brunsvold'>Theodore Brunsvold</a></li>
 	<li>Are street addresses available for lobbying firms (some give political donations from many different addresses)?</li>
 	<li>Do you have a good state contact from which we could request political donation data?</li>
 	<li>Is there a list of all city datasets available (besides those on Socrata)?</li>

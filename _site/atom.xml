@@ -4,7 +4,7 @@
   <title>blog.chicagolobbyists.org</title>
   <link href="http://blog.chicagolobbyists.org/"/>
   <link type="application/atom+xml" rel="self" href="http://blog.chicagolobbyists.org/atom.xml"/>
-  <updated>2012-03-13T13:25:12-05:00</updated>
+  <updated>2012-06-22T15:03:30-05:00</updated>
   <id>http://blog.chicagolobbyists.org/</id>
   <author>
     <name>Chicago Lobbyists Blog</name>
@@ -115,7 +115,7 @@ In the public sphere, using data to improve efficiency of government services is
       <uri>http://blog.chicagolobbyists.org/</uri>
     </author>
     <content type="html">&lt;p&gt;Jan 31, 2012 – Derek Eder and Chad Pry, the two lead developers on this site, got a chance to appear on &lt;span class=&quot;caps&quot;&gt;WTTW&lt;/span&gt; &lt;a href='http://chicagotonight.wttw.com/'&gt;Chicago Tonight&lt;/a&gt; along side &lt;a href='http://twitter.com/ChicagoCTO'&gt;Chicago &lt;span class=&quot;caps&quot;&gt;CTO&lt;/span&gt;&lt;/a&gt; John Tolva Tuesday night.&lt;/p&gt;
-&lt;p&gt;In their panel discussion they talked about &lt;a href='http://chicagolobbyists.org'&gt;Chicago Lobbyists&lt;/a&gt;, &lt;a href='http://lookatcook.com'&gt;Look at Cook&lt;/a&gt;, &lt;a href='http://derekeder.com/clearstreets/'&gt;ClearStreets&lt;/a&gt;, the City&amp;#8217;s &lt;a href='http://www.cityofchicago.org/content/city/en/depts/mayor/iframe/plow_tracker.html'&gt;Plow Tracker&lt;/a&gt; and the open data movement in Chicago.&lt;/p&gt;
+&lt;p&gt;In their panel discussion they talked about &lt;a href='http://www.chicagolobbyists.org'&gt;Chicago Lobbyists&lt;/a&gt;, &lt;a href='http://lookatcook.com'&gt;Look at Cook&lt;/a&gt;, &lt;a href='http://derekeder.com/clearstreets/'&gt;ClearStreets&lt;/a&gt;, the City&amp;#8217;s &lt;a href='http://www.cityofchicago.org/content/city/en/depts/mayor/iframe/plow_tracker.html'&gt;Plow Tracker&lt;/a&gt; and the open data movement in Chicago.&lt;/p&gt;
 &lt;p&gt;Watch the segment below:&lt;/p&gt;
 &lt;p&gt;&lt;iframe src=&quot;http://www.wttw.com/video/embed/iframeEmbedSource.html?feed=http://feed.theplatform.com/f/0HWnt/1jiUX6_ANOBi&amp;mediaIDs=2191815569&quot;  width=&quot;600&quot; height=&quot;400&quot;/&gt; &lt;/iframe&gt;&lt;/p&gt;
 &lt;p&gt;Source: &lt;a href='http://chicagotonight.wttw.com/2012/01/31/chicago-data-apps'&gt;Chicago Data Apps&lt;/a&gt; on &lt;em&gt;Chicago Tonight&lt;/em&gt; (&lt;span class=&quot;caps&quot;&gt;WTTW&lt;/span&gt;)&lt;/p&gt;</content>
@@ -184,7 +184,7 @@ Doing the interview were Paul Baker, Derek Eder and Chad Pry. We discussed the o
 &lt;p&gt;Chicago Lobbyists placed first as &amp;#8220;Best use of open source&amp;#8221; and the city of Chicago placed second to New York City as &lt;a href='http://govfresh.com/2011/12/2011-govfresh-city-of-the-year-new-york-city/'&gt;City of the Year&lt;/a&gt;. New York was cited for its Engage &lt;span class=&quot;caps&quot;&gt;NYC&lt;/span&gt; initiative, aimed at getting designers and developers civically active, and &lt;span class=&quot;caps&quot;&gt;NYC&lt;/span&gt; Open Data, a repository of more than 850 city datasets, including public school data.&lt;/p&gt;
 &lt;p&gt;We were happy to see tweets from &lt;a href='https://twitter.com/#!/ChicagosMayor/status/149194960275636224'&gt;Mayor Emmanuel&amp;#8217;s office&lt;/a&gt;, city &lt;a href='https://twitter.com/#!/ChicagoCDO/status/149197667820503040'&gt;Chicago &lt;span class=&quot;caps&quot;&gt;CDO&lt;/span&gt; Brett Goldstein&lt;/a&gt;, &lt;a href='https://twitter.com/#!/PoliticalEditor/status/149191489426169856'&gt;Mike Flannery&lt;/a&gt; at Fox News and OpenGov activist &lt;a href=''&gt;Steve Vance&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://twitter.com/#!/ChicagosMayor/status/149194960275636224'&gt;&lt;img style=&quot;border: 1px solid #ccc; &quot; src='/images/mayor-gf2011-tweet.png' alt='Tweet from the Mayors Office' title='Tweet from the Mayors Office' /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;We were also happy to see Chicago Lobbyists being used by journalists for online research, as in this New York Times &lt;a href='http://campaignstops.blogs.nytimes.com/2011/12/18/the-trouble-with-that-revolving-door/'&gt;article on lobbying&lt;/a&gt;. See the link to lobbying firm &lt;a href='http://chicagolobbyists.org/firms/dla-piper-rudnick-gray-cary'&gt;&lt;span class=&quot;caps&quot;&gt;DLA&lt;/span&gt; Piper&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We were also happy to see Chicago Lobbyists being used by journalists for online research, as in this New York Times &lt;a href='http://campaignstops.blogs.nytimes.com/2011/12/18/the-trouble-with-that-revolving-door/'&gt;article on lobbying&lt;/a&gt;. See the link to lobbying firm &lt;a href='http://www.chicagolobbyists.org/firms/dla-piper-rudnick-gray-cary'&gt;&lt;span class=&quot;caps&quot;&gt;DLA&lt;/span&gt; Piper&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;GovFresh also highlights five Cook County open data visualizations based on the county&amp;#8217;s new &lt;a href='http://govfresh.com/2011/12/five-open-data-visualizations-from-cook-county-il/'&gt;Socrata open data catalog&lt;/a&gt;, including Public facilities and services, top sheriff&amp;#8217;s violations, outpatient registrations, mortgages, and elected officials.&lt;/p&gt;</content>
   </entry>
   
@@ -233,7 +233,7 @@ Doing the interview were Paul Baker, Derek Eder and Chad Pry. We discussed the o
 	&lt;li&gt;proof $2 million in professional liability insurance&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Needless to say, this approach to an &lt;span class=&quot;caps&quot;&gt;RFP&lt;/span&gt; results in proposals from one type of contractor: firms that are very large and able to jump through all the hoops that the City has to ensure the minimum amount of risk and liability for the City itself. The idea is, if they remove all apparent risk in the selection process, no one will be to blame if the project fails since they vetted the options so thoroughly. What the contractor actually builds and how they plan on going about it is completely secondary. This type of process rarely provides high quality products at a reasonable price, especially in software development.&lt;/p&gt;
-&lt;p&gt;As a group of volunteers working in our free time on this project, we are not what this &lt;span class=&quot;caps&quot;&gt;RFP&lt;/span&gt; is targeting. We are, however, very competent developers and designers and have become experts on this lobbying data and how to display it. If the third objective of the &lt;span class=&quot;caps&quot;&gt;RFP&lt;/span&gt; (above) sounds familiar to you, that&amp;#8217;s because you&amp;#8217;ve been to &lt;a href='http://chicagolobbyists.org'&gt;ChicagoLobbyists.org&lt;/a&gt;. We have already met objective 3.&lt;/p&gt;
+&lt;p&gt;As a group of volunteers working in our free time on this project, we are not what this &lt;span class=&quot;caps&quot;&gt;RFP&lt;/span&gt; is targeting. We are, however, very competent developers and designers and have become experts on this lobbying data and how to display it. If the third objective of the &lt;span class=&quot;caps&quot;&gt;RFP&lt;/span&gt; (above) sounds familiar to you, that&amp;#8217;s because you&amp;#8217;ve been to &lt;a href='http://www.chicagolobbyists.org'&gt;ChicagoLobbyists.org&lt;/a&gt;. We have already met objective 3.&lt;/p&gt;
 &lt;h3&gt;Our proposal&lt;/h3&gt;
 &lt;p&gt;Despite not being able to fulfill most of the requirements of the &lt;span class=&quot;caps&quot;&gt;RFP&lt;/span&gt;, we went ahead and responded anyway. We expect the city to pick one of their usual contractors, but hope that they will consider us as additional consultants for the design and front end development.&lt;/p&gt;
 &lt;h4&gt;&lt;a href='/docs/ChicagoLobbyistsProposal.pdf'&gt;Download our proposal&lt;/a&gt; (&lt;span class=&quot;caps&quot;&gt;PDF&lt;/span&gt;)&lt;/h4&gt;
@@ -268,7 +268,7 @@ Moving from proprietary systems to open source makes collaboration and sharing e
 &lt;p&gt;The winners will be announced on Dec 16 at 10:30am. The Grand Challenge winner will be awarded $10,000. &lt;a href='http://appsformetrochicago.com/rules#prizes'&gt;More on the awards here&lt;/a&gt;. Good luck to everyone!&lt;/p&gt;
 &lt;h3&gt;Judges&amp;#8217; Picks (5)&lt;/h3&gt;
 &lt;ul&gt;
-	&lt;li&gt;&lt;a href='http://chicagolobbyists.org'&gt;Chicago Lobbyists&lt;/a&gt; &amp;#8211; Chicago Lobbyists is a web based app that is an open data, open government, and open source project intended to improve the transparency of interactions between the City of Chicago and lobbyists and their clients.&lt;/li&gt;
+	&lt;li&gt;&lt;a href='http://www.chicagolobbyists.org'&gt;Chicago Lobbyists&lt;/a&gt; &amp;#8211; Chicago Lobbyists is a web based app that is an open data, open government, and open source project intended to improve the transparency of interactions between the City of Chicago and lobbyists and their clients.&lt;/li&gt;
 	&lt;li&gt;&lt;a href='http://www.allschedulesapp.com/'&gt;allSchedules&lt;/a&gt; &amp;#8211; AllSchedules gives you access to a huge collection of transit schedules, for different transport modes (bus, metro,train, tram ferry, etc.), in multiple cities around the world. &lt;/li&gt;
 	&lt;li&gt;&lt;a href='http://www.owtsee.com/'&gt;OwtSee&lt;/a&gt; &amp;#8211; OwtSee is an Android based and a web based application that presents information about the Chicago parks and community events in one convenient  place. &lt;/li&gt;
 	&lt;li&gt;&lt;a href='http://www.spotholechicago.com/'&gt;Spot Hole&lt;/a&gt; &amp;#8211; This app is a tool that improves the process of citizens reporting potholes and helps the city clarify and address those concerns.&lt;/li&gt;
@@ -320,25 +320,25 @@ Moving from proprietary systems to open source makes collaboration and sharing e
 &lt;p&gt;The new data also seems to have been cleaned up and normalized quite a bit (we still had to do some normalizing ourselves &amp;#8211; especially with addresses), resulting in a more accurate picture of lobbying activity in Chicago for 2010.&lt;/p&gt;
 &lt;p&gt;Here is a rundown of the new features:&lt;/p&gt;
 &lt;ol&gt;
-	&lt;li&gt;&lt;p&gt;&lt;a href='http://chicagolobbyists.org/clients'&gt;Most active clients&lt;/a&gt; is now determined by amount spent instead of number of lobbyists hired (&lt;a href='http://chicagolobbyists.org/clients/salvation-army'&gt;Salvation Army&lt;/a&gt;, you are now #1 with $380,000 spent on lobbyists in 2010)&lt;/p&gt;
-	&lt;p&gt;&lt;a href='http://chicagolobbyists.org/clients'&gt;&lt;img style=&quot;border: 1px solid #ccc; &quot; src='/images/v2-client-list.png' alt='New client listing' title='New client listing' /&gt;&lt;/a&gt; &lt;/p&gt;
+	&lt;li&gt;&lt;p&gt;&lt;a href='http://www.chicagolobbyists.org/clients'&gt;Most active clients&lt;/a&gt; is now determined by amount spent instead of number of lobbyists hired (&lt;a href='http://www.chicagolobbyists.org/clients/salvation-army'&gt;Salvation Army&lt;/a&gt;, you are now #1 with $380,000 spent on lobbyists in 2010)&lt;/p&gt;
+	&lt;p&gt;&lt;a href='http://www.chicagolobbyists.org/clients'&gt;&lt;img style=&quot;border: 1px solid #ccc; &quot; src='/images/v2-client-list.png' alt='New client listing' title='New client listing' /&gt;&lt;/a&gt; &lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;All detail pages have a summary section at the top, displaying total amounts, number of lobbyists, number of clients, number of firms, and number of actions (depending on what you&amp;#8217;re viewing). Here&amp;#8217;s an example of each:&lt;br /&gt;
 	&lt;ul&gt;&lt;br /&gt;
-		&lt;li&gt;Lobbyist &amp;#8211; &lt;a href='http://chicagolobbyists.org/lobbyists/ronald-johnson'&gt;Ronald Johnson&lt;/a&gt;&lt;/li&gt;&lt;br /&gt;
-		&lt;li&gt;Firm &amp;#8211; &lt;a href='http://chicagolobbyists.org/firms/neal-and-leroy-llc'&gt;Neal &amp;amp; Leroy, &lt;span class=&quot;caps&quot;&gt;LLC&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;br /&gt;
-		&lt;li&gt;Client &amp;#8211; &lt;a href='http://chicagolobbyists.org/clients/fifth-third-bank'&gt;Fifth Third Bank&lt;/a&gt;&lt;/li&gt;&lt;br /&gt;
-		&lt;li&gt;Agency &amp;#8211; &lt;a href='http://chicagolobbyists.org/agencies/city-council'&gt;City Council&lt;/a&gt;&lt;/li&gt;&lt;/p&gt;
+		&lt;li&gt;Lobbyist &amp;#8211; &lt;a href='http://www.chicagolobbyists.org/lobbyists/ronald-johnson'&gt;Ronald Johnson&lt;/a&gt;&lt;/li&gt;&lt;br /&gt;
+		&lt;li&gt;Firm &amp;#8211; &lt;a href='http://www.chicagolobbyists.org/firms/neal-and-leroy-llc'&gt;Neal &amp;amp; Leroy, &lt;span class=&quot;caps&quot;&gt;LLC&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;br /&gt;
+		&lt;li&gt;Client &amp;#8211; &lt;a href='http://www.chicagolobbyists.org/clients/fifth-third-bank'&gt;Fifth Third Bank&lt;/a&gt;&lt;/li&gt;&lt;br /&gt;
+		&lt;li&gt;Agency &amp;#8211; &lt;a href='http://www.chicagolobbyists.org/agencies/city-council'&gt;City Council&lt;/a&gt;&lt;/li&gt;&lt;/p&gt;
 &lt;/ul&gt;
-	&lt;p&gt;&lt;a href='http://chicagolobbyists.org/lobbyists/ronald-johnson'&gt;&lt;img style=&quot;border: 1px solid #ccc; &quot; src='/images/v2-lobbyist-detail.png' alt='Lobbyist detail - Ronald Johnson' title='Lobbyist detail - Ronald Johnson' /&gt;&lt;/a&gt; &lt;/p&gt;
+	&lt;p&gt;&lt;a href='http://www.chicagolobbyists.org/lobbyists/ronald-johnson'&gt;&lt;img style=&quot;border: 1px solid #ccc; &quot; src='/images/v2-lobbyist-detail.png' alt='Lobbyist detail - Ronald Johnson' title='Lobbyist detail - Ronald Johnson' /&gt;&lt;/a&gt; &lt;/p&gt;
 &lt;/li&gt;
 	&lt;li&gt;&lt;p&gt;Global site search (using &lt;a href='http://www.google.com/cse/'&gt;Google custom search engine&lt;/a&gt;)&lt;/li&gt;
 	&lt;li&gt;&lt;p&gt;Every lobbyist action has a client associated with it&lt;/p&gt;&lt;/li&gt;
 	&lt;li&gt;&lt;p&gt;Every lobbyist payment shows the client who paid them&lt;/li&gt;
 	&lt;li&gt;&lt;p&gt;Categorized lobbyist expenditures (office expenses, food, travel, education, etc) are now listed&lt;/li&gt;
-	&lt;li&gt;&lt;p&gt;We cross referenced the City of Chicago &lt;a href='http://data.cityofchicago.org/Administration-Finance/Payments/s4vu-giwb'&gt;Payments database&lt;/a&gt;, and listed all payments by Chicago to each client (example: &lt;a href='http://chicagolobbyists.org/clients/christy-webber-landscapes'&gt;Christy Webber Landscapes&lt;/a&gt;)&lt;br /&gt;
-	&lt;p&gt;&lt;a href='http://chicagolobbyists.org/clients/christy-webber-landscapes'&gt;&lt;img style=&quot;border: 1px solid #ccc; &quot; src='/images/v2-city-payments.png' alt='Christy Webber Landscapes - City Payments' title='Christy Webber Landscapes - City Payments' /&gt;&lt;/a&gt; &lt;/p&gt;
+	&lt;li&gt;&lt;p&gt;We cross referenced the City of Chicago &lt;a href='http://data.cityofchicago.org/Administration-Finance/Payments/s4vu-giwb'&gt;Payments database&lt;/a&gt;, and listed all payments by Chicago to each client (example: &lt;a href='http://www.chicagolobbyists.org/clients/christy-webber-landscapes'&gt;Christy Webber Landscapes&lt;/a&gt;)&lt;br /&gt;
+	&lt;p&gt;&lt;a href='http://www.chicagolobbyists.org/clients/christy-webber-landscapes'&gt;&lt;img style=&quot;border: 1px solid #ccc; &quot; src='/images/v2-city-payments.png' alt='Christy Webber Landscapes - City Payments' title='Christy Webber Landscapes - City Payments' /&gt;&lt;/a&gt; &lt;/p&gt;
 &lt;/li&gt;
 	&lt;li&gt;&lt;p&gt;All detail pages now have tabs for each section so you can see all the rich data, without cluttering the page&lt;/li&gt;
 	&lt;li&gt;&lt;p&gt;All data on the detail pages is sortable and searchable (thanks to jQuery &lt;a href='http://datatables.net/'&gt;Datatables&lt;/a&gt;)&lt;/li&gt;
@@ -359,9 +359,9 @@ Moving from proprietary systems to open source makes collaboration and sharing e
     <content type="html">&lt;p&gt;by Paul Baker&lt;/p&gt;
 &lt;p&gt;Dec 1, 2011 &amp;#8211; In almost all open data projects, providing raw data is not enough. And it’s not enough to be a good programmer or designer. To be useful, we need to be able to figure out what questions the data might reveal and which of these might be useful for the public to know.&lt;/p&gt;
 &lt;h3&gt;The data&lt;/h3&gt;
-&lt;p class='r'&gt;&lt;a href='http://data.cityofchicago.org/Ethics/Lobbyist-Data-2010-Lobbyist-Registry/2ft4-4uik'&gt;&lt;img src='http://chicagolobbyists.org/images/city-data-portal.png' alt='Lobbyist Data - 2010 Lobbyist Registry' title='Lobbyist Data - 2010 Lobbyist Registry' /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p class='r'&gt;&lt;a href='http://data.cityofchicago.org/Ethics/Lobbyist-Data-2010-Lobbyist-Registry/2ft4-4uik'&gt;&lt;img src='http://www.chicagolobbyists.org/images/city-data-portal.png' alt='Lobbyist Data - 2010 Lobbyist Registry' title='Lobbyist Data - 2010 Lobbyist Registry' /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;In early July 2011, the City of Chicago released &lt;a href='http://data.cityofchicago.org/browse?tags=lobbyists'&gt;14 sets of lobbying-related data&lt;/a&gt;, including lobbyists, lobbying agencies, gifts to city employees, expenditures, clients of lobbyists, etc. However, an ordinary human being could not make heads or tails of this without some sort of integration. &lt;br /&gt;
-That’s why we built &lt;a href='http://chicagoLobbyists.org'&gt;ChicagoLobbyists.org&lt;/a&gt;.&lt;/p&gt;
+That’s why we built &lt;a href='http://www.chicagoLobbyists.org'&gt;ChicagoLobbyists.org&lt;/a&gt;.&lt;/p&gt;
 &lt;div class='clear'&gt;&lt;/div&gt;
 &lt;h3&gt;Chicago Lobbyists v1.0&lt;/h3&gt;
 &lt;p&gt;First, we went through each data set, attempting to draw relationships among them by looking for common fields such as clients, lobbying firms, and individual lobbyists. Our goal was to reveal answers to questions such as, &amp;#8220;WalMart paid which lobbyist, with which lobbying firm, how much money, to argue on their behalf in front of which department or committee, and for what purpose?&amp;#8221;&lt;/p&gt;
@@ -373,7 +373,7 @@ That’s why we built &lt;a href='http://chicagoLobbyists.org'&gt;ChicagoLobbyis
 	&lt;li&gt;Is there a way to determine how much a client paid to a lobbying firm or lobbyist?&lt;/li&gt;&lt;br /&gt;
 	&lt;li&gt;Related to the question above, can we retrieve the purpose for a client payment?&lt;/li&gt;&lt;br /&gt;
 	&lt;li&gt;Can we receive data before 2010? If so, what years are available?&lt;/li&gt;&lt;br /&gt;
-	&lt;li&gt;Is there a way to determine which client requested an action in front of an agency? We only know which lobbyist requested an action—see example: &lt;a href='http://chicagolobbyists.org/lobbyists/theodore-brunsvold'&gt;Theodore Brunsvold&lt;/a&gt;&lt;/li&gt;&lt;br /&gt;
+	&lt;li&gt;Is there a way to determine which client requested an action in front of an agency? We only know which lobbyist requested an action—see example: &lt;a href='http://www.chicagolobbyists.org/lobbyists/theodore-brunsvold'&gt;Theodore Brunsvold&lt;/a&gt;&lt;/li&gt;&lt;br /&gt;
 	&lt;li&gt;Are street addresses available for lobbying firms (some give political donations from many different addresses)?&lt;/li&gt;&lt;br /&gt;
 	&lt;li&gt;Do you have a good state contact from which we could request political donation data?&lt;/li&gt;&lt;br /&gt;
 	&lt;li&gt;Is there a list of all city datasets available (besides those on Socrata)?&lt;/li&gt;&lt;br /&gt;

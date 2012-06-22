@@ -17,6 +17,6 @@ We were happy to see tweets from <a href='https://twitter.com/#!/ChicagosMayor/s
 
 <p><a href='https://twitter.com/#!/ChicagosMayor/status/149194960275636224'><img style="border: 1px solid #ccc; " src='/images/mayor-gf2011-tweet.png' alt='Tweet from the Mayors Office' title='Tweet from the Mayors Office' /></a></p>
 
-We were also happy to see Chicago Lobbyists being used by journalists for online research, as in this New York Times <a href='http://campaignstops.blogs.nytimes.com/2011/12/18/the-trouble-with-that-revolving-door/'>article on lobbying</a>. See the link to lobbying firm <a href='http://chicagolobbyists.org/firms/dla-piper-rudnick-gray-cary'>DLA Piper</a>.
+We were also happy to see Chicago Lobbyists being used by journalists for online research, as in this New York Times <a href='http://campaignstops.blogs.nytimes.com/2011/12/18/the-trouble-with-that-revolving-door/'>article on lobbying</a>. See the link to lobbying firm <a href='http://www.chicagolobbyists.org/firms/dla-piper-rudnick-gray-cary'>DLA Piper</a>.
 
 GovFresh also highlights five Cook County open data visualizations based on the county's new <a href='http://govfresh.com/2011/12/five-open-data-visualizations-from-cook-county-il/'>Socrata open data catalog</a>, including Public facilities and services, top sheriff's violations, outpatient registrations, mortgages, and elected officials.

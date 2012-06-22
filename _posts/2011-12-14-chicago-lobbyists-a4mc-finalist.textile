@@ -12,7 +12,7 @@ The winners will be announced on Dec 16 at 10:30am. The Grand Challenge winner w
 <h3>Judges' Picks (5)</h3>
 
 <ul>
-	<li><a href='http://chicagolobbyists.org'>Chicago Lobbyists</a> - Chicago Lobbyists is a web based app that is an open data, open government, and open source project intended to improve the transparency of interactions between the City of Chicago and lobbyists and their clients.</li>
+	<li><a href='http://www.chicagolobbyists.org'>Chicago Lobbyists</a> - Chicago Lobbyists is a web based app that is an open data, open government, and open source project intended to improve the transparency of interactions between the City of Chicago and lobbyists and their clients.</li>
 	<li><a href='http://www.allschedulesapp.com/'>allSchedules</a> - AllSchedules gives you access to a huge collection of transit schedules, for different transport modes (bus, metro,train, tram ferry, etc.), in multiple cities around the world. </li>
 	<li><a href='http://www.owtsee.com/'>OwtSee</a> - OwtSee is an Android based and a web based application that presents information about the Chicago parks and community events in one convenient  place. </li>
 	<li><a href='http://www.spotholechicago.com/'>Spot Hole</a> - This app is a tool that improves the process of citizens reporting potholes and helps the city clarify and address those concerns.</li>
