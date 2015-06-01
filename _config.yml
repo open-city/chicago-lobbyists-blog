@@ -1,7 +1,10 @@
-auto:        true
-pygments:    false
-lsi:         false
-markdown:    rdiscount
-permalink:   pretty
-exclude:     .rvmrc, .gitignore, .git, ./test
+port:  5000
+markdown: kramdown
+name: "Chicago Lobbyists Blog"
+url: http://blog.chicagolobbyists.org
+encoding: utf-8
+timezone: America/Chicago
+gems:
+  - jekyll-redirect-from
+permalink: pretty
 paginate: 5
